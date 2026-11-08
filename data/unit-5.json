@@ -1,0 +1,1078 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-5",
+  "number": 5,
+  "title": "Anger, Annoyance & Animal Idioms",
+  "shortTitle": "Feelings & figurative language",
+  "description": "Express degrees of anger and understand everyday animal idioms.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Distinguish annoyance from intense anger",
+    "Use fixed anger expressions naturally",
+    "Interpret animal idioms in context"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 5,
+    "note": "Lesson explanations, examples and practice have been adapted for independent study from the supplied unit. Answers and explanations are editorial, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Degrees of anger",
+      "body": "Annoyed and irritated often describe a mild reaction. Furious and livid express strong anger. Cross is common in everyday British English. Tone and context affect the strength of any word.",
+      "examples": [
+        "I am irritated by the noise.",
+        "She was absolutely livid about the damage."
+      ]
+    },
+    {
+      "title": "The person or the cause?",
+      "body": "An irritated person feels annoyance. An irritating noise causes it. Furious describes a person’s reaction; galling describes something frustrating because it seems unfair.",
+      "examples": [
+        "The delay was irritating; the passengers were irritated.",
+        "It was galling to lose after all that work."
+      ]
+    },
+    {
+      "title": "Keep the whole expression",
+      "body": "Idioms use fixed words and prepositions. Learn the expression as a chunk, including the verb. Their verb forms still change with tense.",
+      "examples": [
+        "get on my nerves; drive me up the wall",
+        "She hit the roof; he blew his top.",
+        "They are up in arms about the proposal."
+      ]
+    },
+    {
+      "title": "Animal words can become verbs",
+      "body": "Dog, duck, hound, rabbit and worm can function as verbs in figurative or extended senses. Their tense must fit the sentence.",
+      "examples": [
+        "Injuries dogged his career.",
+        "She ducked to avoid the ball.",
+        "He wormed his way out of the task."
+      ]
+    },
+    {
+      "title": "Use idioms with care",
+      "body": "Animal idioms are usually informal and can be vivid or critical. Understand the meaning before using one about another person. A dark horse is little known; a wild goose chase is a futile search.",
+      "examples": [
+        "The new candidate is a dark horse.",
+        "We had a whale of a time at the party."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "a blazing row",
+      "definition": "A very angry argument.",
+      "example": "The neighbours had a blazing row.",
+      "note": "Row rhymes with cow in this meaning."
+    },
+    {
+      "term": "blow your top",
+      "definition": "Suddenly lose your temper.",
+      "example": "Dad blew his top over the bill.",
+      "note": "Informal; blow → blew → blown."
+    },
+    {
+      "term": "cross",
+      "definition": "Somewhat angry or annoyed.",
+      "example": "The teacher looked cross.",
+      "note": "Common in British English."
+    },
+    {
+      "term": "crotchety",
+      "definition": "Bad-tempered and easily irritated.",
+      "example": "I feel crotchety when I am tired.",
+      "note": "Informal."
+    },
+    {
+      "term": "drive someone up the wall",
+      "definition": "Annoy someone intensely.",
+      "example": "That buzzing is driving me up the wall.",
+      "note": "Informal; pronoun changes with the person."
+    },
+    {
+      "term": "furious",
+      "definition": "Extremely angry.",
+      "example": "She was furious about the mistake.",
+      "note": "A strong adjective."
+    },
+    {
+      "term": "galling",
+      "definition": "Annoying because something seems unfair.",
+      "example": "The unfair result was galling.",
+      "note": "Describes the cause of frustration."
+    },
+    {
+      "term": "get on someone’s nerves",
+      "definition": "Irritate someone.",
+      "example": "The repeated tapping gets on my nerves.",
+      "note": "Informal."
+    },
+    {
+      "term": "a heated argument",
+      "definition": "An argument with strong feelings and anger.",
+      "example": "They had a heated argument about money.",
+      "note": "Common collocation."
+    },
+    {
+      "term": "hit the roof",
+      "definition": "Become very angry suddenly.",
+      "example": "He hit the roof when he saw the damage.",
+      "note": "Informal."
+    },
+    {
+      "term": "indignant",
+      "definition": "Angry at something thought unfair or insulting.",
+      "example": "She was indignant at the accusation.",
+      "note": "Often at or about."
+    },
+    {
+      "term": "infuriate",
+      "definition": "Make someone extremely angry.",
+      "example": "His dishonesty infuriates me.",
+      "note": "Verb; infuriating describes the cause."
+    },
+    {
+      "term": "irate",
+      "definition": "Very angry.",
+      "example": "Irate passengers demanded a refund.",
+      "note": "Often used in reports."
+    },
+    {
+      "term": "irritate",
+      "definition": "Annoy someone.",
+      "example": "The noise irritates her.",
+      "note": "Verb; irritated / irritating."
+    },
+    {
+      "term": "livid",
+      "definition": "Extremely angry.",
+      "example": "He was absolutely livid.",
+      "note": "Normally after a linking verb in this sense."
+    },
+    {
+      "term": "in no mood to",
+      "definition": "Unwilling to do something, often because of anger.",
+      "example": "I am in no mood to argue.",
+      "note": "Follow with a verb."
+    },
+    {
+      "term": "an outburst",
+      "definition": "A sudden strong expression of emotion, often anger.",
+      "example": "She regretted her angry outburst.",
+      "note": "Countable noun."
+    },
+    {
+      "term": "a quick temper",
+      "definition": "A tendency to become angry easily.",
+      "example": "He has a quick temper.",
+      "note": "Not a fast temper in this collocation."
+    },
+    {
+      "term": "sick and tired of",
+      "definition": "Very fed up with something.",
+      "example": "I am sick and tired of waiting.",
+      "note": "Follow of with a noun or -ing form."
+    },
+    {
+      "term": "throw a tantrum",
+      "definition": "Show uncontrolled anger, often by crying or shouting.",
+      "example": "The child threw a tantrum.",
+      "note": "Commonly used about children."
+    },
+    {
+      "term": "touchy",
+      "definition": "Easily offended or made angry.",
+      "example": "He is touchy about his age.",
+      "note": "Often about a sensitive topic."
+    },
+    {
+      "term": "up in arms",
+      "definition": "Very angry and ready to protest.",
+      "example": "Residents are up in arms about the closure.",
+      "note": "Often a group reaction."
+    },
+    {
+      "term": "the black sheep",
+      "definition": "A person regarded as different or a disappointment in a family.",
+      "example": "He felt like the black sheep of the family.",
+      "note": "Can be judgemental; use carefully."
+    },
+    {
+      "term": "as blind as a bat",
+      "definition": "Having very poor eyesight.",
+      "example": "Without my glasses, I am as blind as a bat.",
+      "note": "Informal exaggeration."
+    },
+    {
+      "term": "till the cows come home",
+      "definition": "For a very long time, usually with little result.",
+      "example": "You can argue till the cows come home.",
+      "note": "Also until the cows come home."
+    },
+    {
+      "term": "a dark horse",
+      "definition": "A person whose abilities or plans are little known.",
+      "example": "The new entrant is a dark horse.",
+      "note": "Often in competitions."
+    },
+    {
+      "term": "be dogged by",
+      "definition": "Be persistently troubled by something.",
+      "example": "The project was dogged by delays.",
+      "note": "Usually an unwanted problem."
+    },
+    {
+      "term": "for donkey’s years",
+      "definition": "For a very long time.",
+      "example": "We have been friends for donkey’s years.",
+      "note": "Informal British English."
+    },
+    {
+      "term": "duck",
+      "definition": "Lower your head or body to avoid something.",
+      "example": "She ducked under the branch.",
+      "note": "Verb: ducked."
+    },
+    {
+      "term": "water off a duck’s back",
+      "definition": "Criticism or trouble that has no effect on someone.",
+      "example": "The remarks were water off a duck’s back to him.",
+      "note": "Usually like water off a duck’s back."
+    },
+    {
+      "term": "fishy",
+      "definition": "Suspicious or not quite honest.",
+      "example": "Something about the offer seems fishy.",
+      "note": "Informal."
+    },
+    {
+      "term": "hound",
+      "definition": "Pursue or trouble someone persistently.",
+      "example": "Reporters hounded the actor.",
+      "note": "Verb; often about unwanted attention."
+    },
+    {
+      "term": "the lion’s share",
+      "definition": "The largest part of something.",
+      "example": "She did the lion’s share of the work.",
+      "note": "Follow with of."
+    },
+    {
+      "term": "rabbit on",
+      "definition": "Talk for too long in a boring way.",
+      "example": "He rabbited on about his hobby.",
+      "note": "Informal British English."
+    },
+    {
+      "term": "ratty",
+      "definition": "Bad-tempered or irritable.",
+      "example": "Sorry I was ratty this morning.",
+      "note": "Informal British English."
+    },
+    {
+      "term": "have a whale of a time",
+      "definition": "Enjoy yourself very much.",
+      "example": "We had a whale of a time.",
+      "note": "Informal."
+    },
+    {
+      "term": "a wild goose chase",
+      "definition": "A search unlikely to achieve anything.",
+      "example": "The false address sent us on a wild goose chase.",
+      "note": "Fixed phrase."
+    },
+    {
+      "term": "worm your way out of",
+      "definition": "Avoid a duty through clever excuses.",
+      "example": "He wormed his way out of cleaning.",
+      "note": "Follow of with a noun or -ing form."
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "anger-context",
+      "title": "Choose the expression",
+      "instruction": "Choose the word or phrase that completes the sentence.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I was absolutely ___ when they cancelled again.",
+          "answer": "livid",
+          "options": [
+            "irritated",
+            "livid",
+            "cross",
+            "annoyed"
+          ],
+          "explanation": "Absolutely commonly intensifies the strong adjective livid.",
+          "id": "anger-context-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "He loses his temper easily: he has a ___ temper.",
+          "answer": "quick",
+          "options": [
+            "speedy",
+            "quick",
+            "fast",
+            "rapid"
+          ],
+          "explanation": "The fixed collocation is quick temper.",
+          "id": "anger-context-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "The most ___ thing is that he never apologised.",
+          "answer": "galling",
+          "options": [
+            "irate",
+            "galling",
+            "furious",
+            "touchy"
+          ],
+          "explanation": "Galling describes a frustrating or unfair situation.",
+          "id": "anger-context-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "She is often a bit ___ in the morning.",
+          "answer": "crotchety",
+          "options": [
+            "crotchety",
+            "heated",
+            "blazing",
+            "galling"
+          ],
+          "explanation": "Crotchety means irritable or bad-tempered.",
+          "id": "anger-context-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "The child threw a ___.",
+          "answer": "tantrum",
+          "options": [
+            "temper",
+            "mood",
+            "tantrum",
+            "outburst"
+          ],
+          "explanation": "The fixed expression is throw a tantrum.",
+          "id": "anger-context-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Mum will hit the ___ when she sees the damage.",
+          "answer": "roof",
+          "options": [
+            "ceiling",
+            "top",
+            "roof",
+            "wall"
+          ],
+          "explanation": "Hit the roof means become very angry.",
+          "id": "anger-context-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "That tapping gets on my ___.",
+          "answer": "nerves",
+          "options": [
+            "nose",
+            "mind",
+            "nerves",
+            "back"
+          ],
+          "explanation": "The expression is get on someone’s nerves.",
+          "id": "anger-context-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "I am ___ to listen to these excuses.",
+          "answer": "in no mood",
+          "options": [
+            "sick and tired",
+            "in no mood",
+            "fed up",
+            "sick to death"
+          ],
+          "explanation": "In no mood takes to + verb; sick and tired takes of.",
+          "id": "anger-context-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "The drilling is driving me up the ___.",
+          "answer": "wall",
+          "options": [
+            "roof",
+            "hill",
+            "house",
+            "wall"
+          ],
+          "explanation": "Drive someone up the wall means annoy them intensely.",
+          "id": "anger-context-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Residents are up in ___ about the new tax.",
+          "answer": "arms",
+          "options": [
+            "anger",
+            "arms",
+            "rage",
+            "fists"
+          ],
+          "explanation": "Up in arms describes angry protest.",
+          "id": "anger-context-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "They had a ___ row in the restaurant.",
+          "answer": "blazing",
+          "options": [
+            "glowing",
+            "blazing",
+            "burning",
+            "scalding"
+          ],
+          "explanation": "Blazing row is a fixed collocation for an angry argument.",
+          "id": "anger-context-11"
+        }
+      ]
+    },
+    {
+      "id": "animal-idioms",
+      "title": "Complete the animal idiom",
+      "instruction": "Type the missing animal word or the appropriate form of it.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "His career was ___ by injuries.",
+          "answer": [
+            "dogged"
+          ],
+          "explanation": "Dogged by means repeatedly troubled by.",
+          "id": "animal-idioms-1"
+        },
+        {
+          "type": "text",
+          "prompt": "Double my money overnight? That sounds ___.",
+          "answer": [
+            "fishy"
+          ],
+          "explanation": "Fishy means suspicious.",
+          "id": "animal-idioms-2"
+        },
+        {
+          "type": "text",
+          "prompt": "Criticism is like water off a ___ back to her.",
+          "answer": [
+            "duck’s",
+            "duck's"
+          ],
+          "explanation": "The full phrase is water off a duck’s back.",
+          "id": "animal-idioms-3"
+        },
+        {
+          "type": "text",
+          "prompt": "Without his glasses, he is as blind as a ___.",
+          "answer": [
+            "bat"
+          ],
+          "explanation": "The fixed comparison is as blind as a bat.",
+          "id": "animal-idioms-4"
+        },
+        {
+          "type": "text",
+          "prompt": "We had a ___ of a time at the party.",
+          "answer": [
+            "whale"
+          ],
+          "explanation": "A whale of a time means a very enjoyable time.",
+          "id": "animal-idioms-5"
+        },
+        {
+          "type": "text",
+          "prompt": "You can argue till the ___ come home.",
+          "answer": [
+            "cows"
+          ],
+          "explanation": "The expression means for a very long time.",
+          "id": "animal-idioms-6"
+        },
+        {
+          "type": "text",
+          "prompt": "If I had not ___, the ball would have hit my head.",
+          "answer": [
+            "ducked"
+          ],
+          "explanation": "Duck is a verb meaning lower your head or body.",
+          "id": "animal-idioms-7"
+        },
+        {
+          "type": "text",
+          "prompt": "We know little about the new finalist: a dark ___.",
+          "answer": [
+            "horse"
+          ],
+          "explanation": "A dark horse is someone little known.",
+          "id": "animal-idioms-8"
+        },
+        {
+          "type": "text",
+          "prompt": "Searching that false address was a wild ___.",
+          "answer": [
+            "goose chase"
+          ],
+          "explanation": "A wild goose chase is a futile search.",
+          "id": "animal-idioms-9"
+        },
+        {
+          "type": "text",
+          "prompt": "She deserves the ___ share of the profits.",
+          "answer": [
+            "lion’s",
+            "lion's"
+          ],
+          "explanation": "The lion’s share is the largest part.",
+          "id": "animal-idioms-10"
+        },
+        {
+          "type": "text",
+          "prompt": "He was treated as the black ___ of the family.",
+          "answer": [
+            "sheep"
+          ],
+          "explanation": "Black sheep describes a family outsider or perceived disappointment.",
+          "id": "animal-idioms-11"
+        },
+        {
+          "type": "text",
+          "prompt": "You cannot ___ your way out of the washing-up.",
+          "answer": [
+            "worm"
+          ],
+          "explanation": "Worm your way out of means evade a duty.",
+          "id": "animal-idioms-12"
+        },
+        {
+          "type": "text",
+          "prompt": "He ___ on about the same topic for hours.",
+          "answer": [
+            "rabbited"
+          ],
+          "explanation": "Rabbit on means talk at excessive length.",
+          "id": "animal-idioms-13"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-recall",
+      "title": "Vocabulary recall",
+      "instruction": "Choose the word or phrase that matches the meaning.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "A very angry argument.",
+          "answer": "a blazing row",
+          "options": [
+            "crotchety",
+            "get on someone’s nerves",
+            "a blazing row",
+            "blow your top"
+          ],
+          "explanation": "The neighbours had a blazing row. Row rhymes with cow in this meaning.",
+          "id": "vocabulary-recall-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Suddenly lose your temper.",
+          "answer": "blow your top",
+          "options": [
+            "blow your top",
+            "cross",
+            "drive someone up the wall",
+            "a heated argument"
+          ],
+          "explanation": "Dad blew his top over the bill. Informal; blow → blew → blown.",
+          "id": "vocabulary-recall-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Somewhat angry or annoyed.",
+          "answer": "cross",
+          "options": [
+            "furious",
+            "hit the roof",
+            "cross",
+            "crotchety"
+          ],
+          "explanation": "The teacher looked cross. Common in British English.",
+          "id": "vocabulary-recall-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "Bad-tempered and easily irritated.",
+          "answer": "crotchety",
+          "options": [
+            "crotchety",
+            "drive someone up the wall",
+            "galling",
+            "indignant"
+          ],
+          "explanation": "I feel crotchety when I am tired. Informal.",
+          "id": "vocabulary-recall-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Annoy someone intensely.",
+          "answer": "drive someone up the wall",
+          "options": [
+            "get on someone’s nerves",
+            "infuriate",
+            "drive someone up the wall",
+            "furious"
+          ],
+          "explanation": "That buzzing is driving me up the wall. Informal; pronoun changes with the person.",
+          "id": "vocabulary-recall-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Extremely angry.",
+          "answer": "furious",
+          "options": [
+            "furious",
+            "galling",
+            "a heated argument",
+            "irate"
+          ],
+          "explanation": "She was furious about the mistake. A strong adjective.",
+          "id": "vocabulary-recall-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "Annoying because something seems unfair.",
+          "answer": "galling",
+          "options": [
+            "hit the roof",
+            "irritate",
+            "galling",
+            "get on someone’s nerves"
+          ],
+          "explanation": "The unfair result was galling. Describes the cause of frustration.",
+          "id": "vocabulary-recall-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "Irritate someone.",
+          "answer": "get on someone’s nerves",
+          "options": [
+            "get on someone’s nerves",
+            "a heated argument",
+            "indignant",
+            "livid"
+          ],
+          "explanation": "The repeated tapping gets on my nerves. Informal.",
+          "id": "vocabulary-recall-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "An argument with strong feelings and anger.",
+          "answer": "a heated argument",
+          "options": [
+            "infuriate",
+            "in no mood to",
+            "a heated argument",
+            "hit the roof"
+          ],
+          "explanation": "They had a heated argument about money. Common collocation.",
+          "id": "vocabulary-recall-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Become very angry suddenly.",
+          "answer": "hit the roof",
+          "options": [
+            "hit the roof",
+            "indignant",
+            "irate",
+            "an outburst"
+          ],
+          "explanation": "He hit the roof when he saw the damage. Informal.",
+          "id": "vocabulary-recall-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Angry at something thought unfair or insulting.",
+          "answer": "indignant",
+          "options": [
+            "irritate",
+            "a quick temper",
+            "indignant",
+            "infuriate"
+          ],
+          "explanation": "She was indignant at the accusation. Often at or about.",
+          "id": "vocabulary-recall-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Make someone extremely angry.",
+          "answer": "infuriate",
+          "options": [
+            "infuriate",
+            "irate",
+            "livid",
+            "sick and tired of"
+          ],
+          "explanation": "His dishonesty infuriates me. Verb; infuriating describes the cause.",
+          "id": "vocabulary-recall-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very angry.",
+          "answer": "irate",
+          "options": [
+            "in no mood to",
+            "throw a tantrum",
+            "irate",
+            "irritate"
+          ],
+          "explanation": "Irate passengers demanded a refund. Often used in reports.",
+          "id": "vocabulary-recall-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Annoy someone.",
+          "answer": "irritate",
+          "options": [
+            "irritate",
+            "livid",
+            "an outburst",
+            "touchy"
+          ],
+          "explanation": "The noise irritates her. Verb; irritated / irritating.",
+          "id": "vocabulary-recall-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Extremely angry.",
+          "answer": "livid",
+          "options": [
+            "a quick temper",
+            "up in arms",
+            "livid",
+            "in no mood to"
+          ],
+          "explanation": "He was absolutely livid. Normally after a linking verb in this sense.",
+          "id": "vocabulary-recall-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Unwilling to do something, often because of anger.",
+          "answer": "in no mood to",
+          "options": [
+            "in no mood to",
+            "an outburst",
+            "sick and tired of",
+            "the black sheep"
+          ],
+          "explanation": "I am in no mood to argue. Follow with a verb.",
+          "id": "vocabulary-recall-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "A sudden strong expression of emotion, often anger.",
+          "answer": "an outburst",
+          "options": [
+            "throw a tantrum",
+            "as blind as a bat",
+            "an outburst",
+            "a quick temper"
+          ],
+          "explanation": "She regretted her angry outburst. Countable noun.",
+          "id": "vocabulary-recall-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "A tendency to become angry easily.",
+          "answer": "a quick temper",
+          "options": [
+            "a quick temper",
+            "sick and tired of",
+            "touchy",
+            "till the cows come home"
+          ],
+          "explanation": "He has a quick temper. Not a fast temper in this collocation.",
+          "id": "vocabulary-recall-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very fed up with something.",
+          "answer": "sick and tired of",
+          "options": [
+            "up in arms",
+            "a dark horse",
+            "sick and tired of",
+            "throw a tantrum"
+          ],
+          "explanation": "I am sick and tired of waiting. Follow of with a noun or -ing form.",
+          "id": "vocabulary-recall-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Show uncontrolled anger, often by crying or shouting.",
+          "answer": "throw a tantrum",
+          "options": [
+            "throw a tantrum",
+            "touchy",
+            "the black sheep",
+            "be dogged by"
+          ],
+          "explanation": "The child threw a tantrum. Commonly used about children.",
+          "id": "vocabulary-recall-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Easily offended or made angry.",
+          "answer": "touchy",
+          "options": [
+            "as blind as a bat",
+            "for donkey’s years",
+            "touchy",
+            "up in arms"
+          ],
+          "explanation": "He is touchy about his age. Often about a sensitive topic.",
+          "id": "vocabulary-recall-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very angry and ready to protest.",
+          "answer": "up in arms",
+          "options": [
+            "up in arms",
+            "the black sheep",
+            "till the cows come home",
+            "duck"
+          ],
+          "explanation": "Residents are up in arms about the closure. Often a group reaction.",
+          "id": "vocabulary-recall-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "A person regarded as different or a disappointment in a family.",
+          "answer": "the black sheep",
+          "options": [
+            "a dark horse",
+            "water off a duck’s back",
+            "the black sheep",
+            "as blind as a bat"
+          ],
+          "explanation": "He felt like the black sheep of the family. Can be judgemental; use carefully.",
+          "id": "vocabulary-recall-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Having very poor eyesight.",
+          "answer": "as blind as a bat",
+          "options": [
+            "as blind as a bat",
+            "till the cows come home",
+            "be dogged by",
+            "fishy"
+          ],
+          "explanation": "Without my glasses, I am as blind as a bat. Informal exaggeration.",
+          "id": "vocabulary-recall-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "For a very long time, usually with little result.",
+          "answer": "till the cows come home",
+          "options": [
+            "for donkey’s years",
+            "hound",
+            "till the cows come home",
+            "a dark horse"
+          ],
+          "explanation": "You can argue till the cows come home. Also until the cows come home.",
+          "id": "vocabulary-recall-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "A person whose abilities or plans are little known.",
+          "answer": "a dark horse",
+          "options": [
+            "a dark horse",
+            "be dogged by",
+            "duck",
+            "the lion’s share"
+          ],
+          "explanation": "The new entrant is a dark horse. Often in competitions.",
+          "id": "vocabulary-recall-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Be persistently troubled by something.",
+          "answer": "be dogged by",
+          "options": [
+            "water off a duck’s back",
+            "rabbit on",
+            "be dogged by",
+            "for donkey’s years"
+          ],
+          "explanation": "The project was dogged by delays. Usually an unwanted problem.",
+          "id": "vocabulary-recall-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "For a very long time.",
+          "answer": "for donkey’s years",
+          "options": [
+            "for donkey’s years",
+            "duck",
+            "fishy",
+            "ratty"
+          ],
+          "explanation": "We have been friends for donkey’s years. Informal British English.",
+          "id": "vocabulary-recall-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Lower your head or body to avoid something.",
+          "answer": "duck",
+          "options": [
+            "hound",
+            "have a whale of a time",
+            "duck",
+            "water off a duck’s back"
+          ],
+          "explanation": "She ducked under the branch. Verb: ducked.",
+          "id": "vocabulary-recall-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Criticism or trouble that has no effect on someone.",
+          "answer": "water off a duck’s back",
+          "options": [
+            "water off a duck’s back",
+            "fishy",
+            "the lion’s share",
+            "a wild goose chase"
+          ],
+          "explanation": "The remarks were water off a duck’s back to him. Usually like water off a duck’s back.",
+          "id": "vocabulary-recall-30"
+        },
+        {
+          "type": "choice",
+          "prompt": "Suspicious or not quite honest.",
+          "answer": "fishy",
+          "options": [
+            "rabbit on",
+            "worm your way out of",
+            "fishy",
+            "hound"
+          ],
+          "explanation": "Something about the offer seems fishy. Informal.",
+          "id": "vocabulary-recall-31"
+        },
+        {
+          "type": "choice",
+          "prompt": "Pursue or trouble someone persistently.",
+          "answer": "hound",
+          "options": [
+            "hound",
+            "the lion’s share",
+            "ratty",
+            "a blazing row"
+          ],
+          "explanation": "Reporters hounded the actor. Verb; often about unwanted attention.",
+          "id": "vocabulary-recall-32"
+        },
+        {
+          "type": "choice",
+          "prompt": "The largest part of something.",
+          "answer": "the lion’s share",
+          "options": [
+            "have a whale of a time",
+            "blow your top",
+            "the lion’s share",
+            "rabbit on"
+          ],
+          "explanation": "She did the lion’s share of the work. Follow with of.",
+          "id": "vocabulary-recall-33"
+        },
+        {
+          "type": "choice",
+          "prompt": "Talk for too long in a boring way.",
+          "answer": "rabbit on",
+          "options": [
+            "rabbit on",
+            "ratty",
+            "a wild goose chase",
+            "cross"
+          ],
+          "explanation": "He rabbited on about his hobby. Informal British English.",
+          "id": "vocabulary-recall-34"
+        },
+        {
+          "type": "choice",
+          "prompt": "Bad-tempered or irritable.",
+          "answer": "ratty",
+          "options": [
+            "worm your way out of",
+            "crotchety",
+            "ratty",
+            "have a whale of a time"
+          ],
+          "explanation": "Sorry I was ratty this morning. Informal British English.",
+          "id": "vocabulary-recall-35"
+        },
+        {
+          "type": "choice",
+          "prompt": "Enjoy yourself very much.",
+          "answer": "have a whale of a time",
+          "options": [
+            "have a whale of a time",
+            "a wild goose chase",
+            "a blazing row",
+            "drive someone up the wall"
+          ],
+          "explanation": "We had a whale of a time. Informal.",
+          "id": "vocabulary-recall-36"
+        },
+        {
+          "type": "choice",
+          "prompt": "A search unlikely to achieve anything.",
+          "answer": "a wild goose chase",
+          "options": [
+            "blow your top",
+            "furious",
+            "a wild goose chase",
+            "worm your way out of"
+          ],
+          "explanation": "The false address sent us on a wild goose chase. Fixed phrase.",
+          "id": "vocabulary-recall-37"
+        },
+        {
+          "type": "choice",
+          "prompt": "Avoid a duty through clever excuses.",
+          "answer": "worm your way out of",
+          "options": [
+            "worm your way out of",
+            "a blazing row",
+            "cross",
+            "galling"
+          ],
+          "explanation": "He wormed his way out of cleaning. Follow of with a noun or -ing form.",
+          "id": "vocabulary-recall-38"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  }
+}

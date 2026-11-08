@@ -1,0 +1,32 @@
+ENGLISH ATELIER — GITHUB UPLOAD
+
+1. Extract the ZIP.
+2. In GitHub, upload this folder's CONTENTS to your repository.
+   index.html must be at the repository root.
+3. Put your MP3 recordings in the audio/ folder, beside data/.
+   Example: audio/AV-001-2.mp3
+   Keep capital letters and all hyphens exactly as in the original filenames.
+4. Repository Settings > Pages > Deploy from a branch > main > / (root).
+5. Open the website URL GitHub provides after deployment finishes.
+
+One unit = one JSON file:
+  data/unit-1.json ... data/unit-5.json
+The app discovers units from:
+  data/units.json
+To add Unit 6:
+  Copy unit-template.json to data/unit-6.json, replace the sample content,
+  change its $schema path to ../unit.schema.json, and register it in data/units.json.
+
+Audio:
+  All 17 filenames from the screenshot are listed in data/audio-library.json.
+  No actual recordings are included in this ZIP.
+  Choose a unit's recording on its Listening tab.
+  Unit 1 offers AV-001-2.mp3 as an unverified suggestion; confirm it by listening.
+  Listening responses are saved without scoring until a verified key is added.
+
+Everything works without a framework or build step.
+Progress is saved in the current browser. Export a backup in Progress & settings.
+Opening index.html by double-clicking will not load JSON correctly; use GitHub
+Pages or run: python -m http.server 8000
+
+See README.md for the full guide, examples, extension format and troubleshooting.

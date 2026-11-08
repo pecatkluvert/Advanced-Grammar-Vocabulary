@@ -1,0 +1,1655 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-2",
+  "number": 2,
+  "title": "Adjectives II: Collocations",
+  "shortTitle": "Words that go together",
+  "description": "Build natural adjective–noun combinations and distinguish near-synonyms.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Use natural adjective–noun combinations",
+    "Distinguish shades of meaning",
+    "Replace vague adjectives with precise ones"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 2,
+    "note": "Lesson explanations, examples and practice have been adapted for independent study from the supplied unit. Answers and explanations are editorial, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Learn words in partnerships",
+      "body": "A collocation is a combination that sounds natural to proficient speakers. Knowing a definition is not enough: learn an adjective with two or three common nouns.",
+      "examples": [
+        "a meteoric rise",
+        "a piercing scream",
+        "a watertight alibi"
+      ]
+    },
+    {
+      "title": "Before or after a noun",
+      "body": "Adjectives often appear before nouns and after linking verbs, but fixed combinations can strongly favour one position. The source highlights typical collocations; these are usage patterns rather than absolute bans in every context.",
+      "examples": [
+        "an avid reader",
+        "The view was breathtaking.",
+        "She has an unblemished record."
+      ]
+    },
+    {
+      "title": "Close meanings, different uses",
+      "body": "Lax describes weak rules or enforcement; lenient describes a person who gives a mild punishment. Harrowing describes a distressing experience or account, rather than a distressed person.",
+      "examples": [
+        "lax security; a lenient judge",
+        "a harrowing documentary; an upset viewer"
+      ]
+    },
+    {
+      "title": "Precision and register",
+      "body": "Mundane suggests ordinary routine; tedious suggests something long and tiresome; dreary adds a depressing quality. Lousy is informal. Choose the word that expresses your meaning and suits the situation.",
+      "examples": [
+        "a mundane administrative task",
+        "a tedious three-hour wait",
+        "a dreary winter afternoon"
+      ]
+    },
+    {
+      "title": "Using stronger descriptions",
+      "body": "Do not replace simple words mechanically. Perfect can become flawless for a performance, impeccable for manners or taste, and unblemished for a record. Context decides which collocation fits.",
+      "examples": [
+        "a flawless performance",
+        "impeccable manners",
+        "an unblemished safety record"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "avid",
+      "definition": "Extremely enthusiastic about an interest.",
+      "example": "She is an avid reader of biographies.",
+      "note": "Common: reader, fan, collector."
+    },
+    {
+      "term": "blatant",
+      "definition": "Very obvious and without shame, usually something bad.",
+      "example": "It was a blatant lie.",
+      "note": "Common: lie, foul, disregard."
+    },
+    {
+      "term": "breathtaking",
+      "definition": "Remarkably beautiful or impressive.",
+      "example": "The mountain view was breathtaking.",
+      "note": "Common: view, scenery."
+    },
+    {
+      "term": "gripping",
+      "definition": "So exciting that it holds your attention.",
+      "example": "We watched a gripping thriller.",
+      "note": "Common: film, tale, novel."
+    },
+    {
+      "term": "harrowing",
+      "definition": "Deeply distressing or shocking.",
+      "example": "The documentary contained harrowing accounts.",
+      "note": "Describes an experience or account."
+    },
+    {
+      "term": "lax",
+      "definition": "Not sufficiently strict or careful.",
+      "example": "Lax security allowed strangers inside.",
+      "note": "Common: security, discipline, enforcement."
+    },
+    {
+      "term": "lenient",
+      "definition": "Giving a less severe punishment than expected.",
+      "example": "The lenient judge issued a warning.",
+      "note": "Often describes judges, parents or teachers."
+    },
+    {
+      "term": "meteoric",
+      "definition": "Extremely rapid and striking.",
+      "example": "The actor enjoyed a meteoric rise.",
+      "note": "Common: rise to fame."
+    },
+    {
+      "term": "misleading",
+      "definition": "Giving an incorrect impression.",
+      "example": "The advertisement was misleading.",
+      "note": "Common: information, comments, advertising."
+    },
+    {
+      "term": "piercing",
+      "definition": "Very high and loud, especially a sound.",
+      "example": "A piercing scream broke the silence.",
+      "note": "Common: scream, whistle."
+    },
+    {
+      "term": "prolific",
+      "definition": "Producing a large amount of creative work.",
+      "example": "The prolific novelist publishes every year.",
+      "note": "Common: writer, composer, artist."
+    },
+    {
+      "term": "sporadic",
+      "definition": "Occurring at irregular intervals.",
+      "example": "Sporadic fighting continued near the border.",
+      "note": "Common: fighting, outbreaks, showers."
+    },
+    {
+      "term": "staunch",
+      "definition": "Firm and loyal in support.",
+      "example": "He remained a staunch ally.",
+      "note": "Common: supporter, friend, ally."
+    },
+    {
+      "term": "sweeping",
+      "definition": "Broad and general, or affecting many things.",
+      "example": "The proposal introduced sweeping changes.",
+      "note": "Common: generalisation, reforms, changes."
+    },
+    {
+      "term": "watertight",
+      "definition": "So sound that it is difficult to challenge.",
+      "example": "Her argument was watertight.",
+      "note": "Common: alibi, case, argument."
+    },
+    {
+      "term": "dreary",
+      "definition": "Dull and depressing.",
+      "example": "It was a dreary afternoon.",
+      "note": "Boring group."
+    },
+    {
+      "term": "dull",
+      "definition": "Lacking interest, excitement or brightness.",
+      "example": "The lecture was dull.",
+      "note": "Boring group."
+    },
+    {
+      "term": "mundane",
+      "definition": "Ordinary and lacking excitement.",
+      "example": "He wanted a break from mundane chores.",
+      "note": "Boring group."
+    },
+    {
+      "term": "tedious",
+      "definition": "Long, tiresome and boring.",
+      "example": "Entering the data was tedious.",
+      "note": "Boring group."
+    },
+    {
+      "term": "atrocious",
+      "definition": "Extremely bad.",
+      "example": "The service was atrocious.",
+      "note": "Bad group."
+    },
+    {
+      "term": "dreadful",
+      "definition": "Very bad or unpleasant.",
+      "example": "We drove through dreadful weather.",
+      "note": "Bad group."
+    },
+    {
+      "term": "lousy",
+      "definition": "Very bad, in informal language.",
+      "example": "I had a lousy day.",
+      "note": "Bad group; informal."
+    },
+    {
+      "term": "flawless",
+      "definition": "Without any faults.",
+      "example": "Her performance was flawless.",
+      "note": "Perfect group."
+    },
+    {
+      "term": "impeccable",
+      "definition": "Of a very high standard, without faults.",
+      "example": "His manners were impeccable.",
+      "note": "Perfect group."
+    },
+    {
+      "term": "unblemished",
+      "definition": "Not damaged or spoiled by faults or wrongdoing.",
+      "example": "She has an unblemished record.",
+      "note": "Perfect group."
+    },
+    {
+      "term": "arduous",
+      "definition": "Difficult and requiring sustained effort.",
+      "example": "The rescue involved an arduous climb.",
+      "note": "Difficult group; normally written arduous."
+    },
+    {
+      "term": "gruelling",
+      "definition": "Exhausting and demanding over a long period.",
+      "example": "They endured a gruelling schedule.",
+      "note": "Difficult group; US spelling: grueling."
+    },
+    {
+      "term": "strenuous",
+      "definition": "Requiring great physical effort or energetic opposition.",
+      "example": "Avoid strenuous exercise today.",
+      "note": "Difficult group."
+    },
+    {
+      "term": "bedraggled",
+      "definition": "Wet, dirty and untidy.",
+      "example": "The bedraggled hikers reached the shelter.",
+      "note": "Untidy group."
+    },
+    {
+      "term": "dishevelled",
+      "definition": "Untidy, especially hair or appearance.",
+      "example": "He arrived with dishevelled hair.",
+      "note": "Untidy group; US: disheveled."
+    },
+    {
+      "term": "scruffy",
+      "definition": "Untidy or shabby.",
+      "example": "He wore a scruffy pair of jeans.",
+      "note": "Untidy group."
+    },
+    {
+      "term": "astute",
+      "definition": "Good at understanding situations and judging them.",
+      "example": "It was an astute decision.",
+      "note": "Clever group."
+    },
+    {
+      "term": "crafty",
+      "definition": "Clever in a deceptive or cunning way.",
+      "example": "They devised a crafty plan.",
+      "note": "Clever group."
+    },
+    {
+      "term": "shrewd",
+      "definition": "Showing good practical judgement.",
+      "example": "She made a shrewd investment.",
+      "note": "Clever group."
+    },
+    {
+      "term": "wily",
+      "definition": "Experienced and clever at gaining an advantage.",
+      "example": "The wily negotiator anticipated the objection.",
+      "note": "Clever group."
+    },
+    {
+      "term": "conventional",
+      "definition": "Following accepted or ordinary ideas.",
+      "example": "He favours conventional teaching methods.",
+      "note": "Ordinary group."
+    },
+    {
+      "term": "mainstream",
+      "definition": "Accepted by most people; not extreme.",
+      "example": "The idea is now part of mainstream politics.",
+      "note": "Ordinary group."
+    },
+    {
+      "term": "middle-of-the-road",
+      "definition": "Moderate and avoiding extremes.",
+      "example": "The candidate had middle-of-the-road views.",
+      "note": "Ordinary group."
+    },
+    {
+      "term": "run-of-the-mill",
+      "definition": "Ordinary and unremarkable.",
+      "example": "It was a run-of-the-mill hotel.",
+      "note": "Ordinary group."
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "collocations",
+      "title": "Complete the collocation",
+      "instruction": "Choose the noun that most naturally fits this adjective.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "breathtaking ___",
+          "answer": "view",
+          "options": [
+            "scream",
+            "security",
+            "view",
+            "judge"
+          ],
+          "explanation": "“breathtaking view” is a natural collocation.",
+          "id": "collocations-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "blatant ___",
+          "answer": "lie",
+          "options": [
+            "scream",
+            "lie",
+            "view",
+            "judge"
+          ],
+          "explanation": "“blatant lie” is a natural collocation.",
+          "id": "collocations-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "prolific ___",
+          "answer": "novelist",
+          "options": [
+            "novelist",
+            "view",
+            "judge",
+            "scream"
+          ],
+          "explanation": "“prolific novelist” is a natural collocation.",
+          "id": "collocations-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "gripping ___",
+          "answer": "film",
+          "options": [
+            "view",
+            "judge",
+            "scream",
+            "film"
+          ],
+          "explanation": "“gripping film” is a natural collocation.",
+          "id": "collocations-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "misleading ___",
+          "answer": "information",
+          "options": [
+            "judge",
+            "scream",
+            "information",
+            "view"
+          ],
+          "explanation": "“misleading information” is a natural collocation.",
+          "id": "collocations-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "piercing ___",
+          "answer": "scream",
+          "options": [
+            "security",
+            "scream",
+            "view",
+            "judge"
+          ],
+          "explanation": "“piercing scream” is a natural collocation.",
+          "id": "collocations-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "sporadic ___",
+          "answer": "fighting",
+          "options": [
+            "fighting",
+            "view",
+            "judge",
+            "scream"
+          ],
+          "explanation": "“sporadic fighting” is a natural collocation.",
+          "id": "collocations-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "sweeping ___",
+          "answer": "generalisation",
+          "options": [
+            "view",
+            "judge",
+            "scream",
+            "generalisation"
+          ],
+          "explanation": "“sweeping generalisation” is a natural collocation.",
+          "id": "collocations-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "staunch ___",
+          "answer": "ally",
+          "options": [
+            "judge",
+            "scream",
+            "ally",
+            "view"
+          ],
+          "explanation": "“staunch ally” is a natural collocation.",
+          "id": "collocations-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "watertight ___",
+          "answer": "alibi",
+          "options": [
+            "scream",
+            "alibi",
+            "view",
+            "judge"
+          ],
+          "explanation": "“watertight alibi” is a natural collocation.",
+          "id": "collocations-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "harrowing ___",
+          "answer": "documentary",
+          "options": [
+            "documentary",
+            "view",
+            "judge",
+            "scream"
+          ],
+          "explanation": "“harrowing documentary” is a natural collocation.",
+          "id": "collocations-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "lenient ___",
+          "answer": "judge",
+          "options": [
+            "view",
+            "scream",
+            "security",
+            "judge"
+          ],
+          "explanation": "“lenient judge” is a natural collocation.",
+          "id": "collocations-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "meteoric ___",
+          "answer": "rise",
+          "options": [
+            "judge",
+            "scream",
+            "rise",
+            "view"
+          ],
+          "explanation": "“meteoric rise” is a natural collocation.",
+          "id": "collocations-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "avid ___",
+          "answer": "reader",
+          "options": [
+            "scream",
+            "reader",
+            "view",
+            "judge"
+          ],
+          "explanation": "“avid reader” is a natural collocation.",
+          "id": "collocations-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "lax ___",
+          "answer": "security",
+          "options": [
+            "security",
+            "view",
+            "judge",
+            "scream"
+          ],
+          "explanation": "“lax security” is a natural collocation.",
+          "id": "collocations-15"
+        }
+      ]
+    },
+    {
+      "id": "meaning-groups",
+      "title": "Group similar meanings",
+      "instruction": "Choose the closest meaning group. Nuances still matter.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Which group contains “dreary”?",
+          "answer": "Boring",
+          "options": [
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult"
+          ],
+          "explanation": "“dreary” belongs to the boring group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “dull”?",
+          "answer": "Boring",
+          "options": [
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy"
+          ],
+          "explanation": "“dull” belongs to the boring group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “mundane”?",
+          "answer": "Boring",
+          "options": [
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad"
+          ],
+          "explanation": "“mundane” belongs to the boring group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “tedious”?",
+          "answer": "Boring",
+          "options": [
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever"
+          ],
+          "explanation": "“tedious” belongs to the boring group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “arduous”?",
+          "answer": "Difficult",
+          "options": [
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary"
+          ],
+          "explanation": "“arduous” belongs to the difficult group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “gruelling”?",
+          "answer": "Difficult",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "“gruelling” belongs to the difficult group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “strenuous”?",
+          "answer": "Difficult",
+          "options": [
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring"
+          ],
+          "explanation": "“strenuous” belongs to the difficult group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “bedraggled”?",
+          "answer": "Untidy",
+          "options": [
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult"
+          ],
+          "explanation": "“bedraggled” belongs to the untidy group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “dishevelled”?",
+          "answer": "Untidy",
+          "options": [
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy"
+          ],
+          "explanation": "“dishevelled” belongs to the untidy group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “scruffy”?",
+          "answer": "Untidy",
+          "options": [
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad"
+          ],
+          "explanation": "“scruffy” belongs to the untidy group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “atrocious”?",
+          "answer": "Bad",
+          "options": [
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever"
+          ],
+          "explanation": "“atrocious” belongs to the bad group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “dreadful”?",
+          "answer": "Bad",
+          "options": [
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary"
+          ],
+          "explanation": "“dreadful” belongs to the bad group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “lousy”?",
+          "answer": "Bad",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "“lousy” belongs to the bad group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “astute”?",
+          "answer": "Clever",
+          "options": [
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring"
+          ],
+          "explanation": "“astute” belongs to the clever group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “crafty”?",
+          "answer": "Clever",
+          "options": [
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult"
+          ],
+          "explanation": "“crafty” belongs to the clever group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “shrewd”?",
+          "answer": "Clever",
+          "options": [
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy"
+          ],
+          "explanation": "“shrewd” belongs to the clever group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “wily”?",
+          "answer": "Clever",
+          "options": [
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad"
+          ],
+          "explanation": "“wily” belongs to the clever group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “conventional”?",
+          "answer": "Ordinary",
+          "options": [
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever"
+          ],
+          "explanation": "“conventional” belongs to the ordinary group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “mainstream”?",
+          "answer": "Ordinary",
+          "options": [
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary"
+          ],
+          "explanation": "“mainstream” belongs to the ordinary group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “middle-of-the-road”?",
+          "answer": "Ordinary",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "“middle-of-the-road” belongs to the ordinary group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “run-of-the-mill”?",
+          "answer": "Ordinary",
+          "options": [
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring"
+          ],
+          "explanation": "“run-of-the-mill” belongs to the ordinary group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “flawless”?",
+          "answer": "Perfect",
+          "options": [
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult"
+          ],
+          "explanation": "“flawless” belongs to the perfect group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “impeccable”?",
+          "answer": "Perfect",
+          "options": [
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy"
+          ],
+          "explanation": "“impeccable” belongs to the perfect group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Which group contains “unblemished”?",
+          "answer": "Perfect",
+          "options": [
+            "Clever",
+            "Ordinary",
+            "Perfect",
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad"
+          ],
+          "explanation": "“unblemished” belongs to the perfect group; see the vocabulary note for its nuance.",
+          "id": "meaning-groups-24"
+        }
+      ]
+    },
+    {
+      "id": "upgrade-review",
+      "title": "Upgrade a film review",
+      "instruction": "Replace the general adjective with a more precise word. More than one answer can work.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "An ordinary film: a ___ film.",
+          "answer": [
+            "run-of-the-mill",
+            "conventional",
+            "mainstream",
+            "middle-of-the-road"
+          ],
+          "explanation": "Run-of-the-mill means unremarkable; the other answers can describe conventional style.",
+          "id": "upgrade-review-1"
+        },
+        {
+          "type": "text",
+          "prompt": "The relatives were bad and unpleasant: their behaviour was ___.",
+          "answer": [
+            "dreadful",
+            "atrocious",
+            "lousy"
+          ],
+          "explanation": "All mean very bad; lousy is informal.",
+          "id": "upgrade-review-2"
+        },
+        {
+          "type": "text",
+          "prompt": "Learning these skills was a difficult task: an ___ task.",
+          "answer": [
+            "arduous"
+          ],
+          "explanation": "Arduous stresses sustained effort.",
+          "id": "upgrade-review-3"
+        },
+        {
+          "type": "text",
+          "prompt": "The clever professor made an ___ decision.",
+          "answer": [
+            "astute"
+          ],
+          "explanation": "Astute describes accurate judgement; “an” also gives a clue.",
+          "id": "upgrade-review-4"
+        },
+        {
+          "type": "text",
+          "prompt": "The cast gave perfect performances: ___ performances.",
+          "answer": [
+            "flawless",
+            "impeccable"
+          ],
+          "explanation": "Both can describe performances without faults.",
+          "id": "upgrade-review-5"
+        },
+        {
+          "type": "text",
+          "prompt": "There was never a boring moment: never a ___ moment.",
+          "answer": [
+            "dull"
+          ],
+          "explanation": "“Never a dull moment” is a common expression.",
+          "id": "upgrade-review-6"
+        }
+      ]
+    },
+    {
+      "id": "usage-check",
+      "title": "Check the combination",
+      "instruction": "Is this a natural combination in the sense taught here? Read the explanation for context.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "a gruelling shirt",
+          "answer": "Revise",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "Gruelling describes a demanding experience, such as a race or schedule.",
+          "id": "usage-check-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "a staunch enemy",
+          "answer": "Revise",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "For the supportive sense taught here, use staunch ally or supporter; “staunch enemy” is possible in other contexts.",
+          "id": "usage-check-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "a flawless performance",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "A performance can have no faults.",
+          "id": "usage-check-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "a scruffy pair of jeans",
+          "answer": "Natural",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "Scruffy describes shabby clothes.",
+          "id": "usage-check-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "a crafty plan",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "A plan can be cunning.",
+          "id": "usage-check-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "a shrewd businessman",
+          "answer": "Natural",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "Shrewd describes practical judgement.",
+          "id": "usage-check-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "strenuous exercise",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "Exercise can demand great physical effort.",
+          "id": "usage-check-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "a tedious room",
+          "answer": "Revise",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "For this unit, use tedious task or dull room; tedious typically describes an activity or experience.",
+          "id": "usage-check-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "an atrocious driver",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "A driver can be extremely bad at driving.",
+          "id": "usage-check-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "an astute look",
+          "answer": "Natural",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "This can mean a look suggesting perceptiveness; context matters.",
+          "id": "usage-check-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "an arduous journey",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "A journey can require sustained effort.",
+          "id": "usage-check-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "impeccable taste",
+          "answer": "Natural",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "Impeccable is a common description of excellent taste.",
+          "id": "usage-check-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "mainstream politics",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "Mainstream describes widely accepted political positions.",
+          "id": "usage-check-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "a mundane job",
+          "answer": "Natural",
+          "options": [
+            "Revise",
+            "Natural"
+          ],
+          "explanation": "Mundane describes routine work.",
+          "id": "usage-check-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "a dreary journey",
+          "answer": "Natural",
+          "options": [
+            "Natural",
+            "Revise"
+          ],
+          "explanation": "A journey can be dull and depressing.",
+          "id": "usage-check-15"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-recall",
+      "title": "Vocabulary recall",
+      "instruction": "Choose the word or phrase that matches the meaning.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Extremely enthusiastic about an interest.",
+          "answer": "avid",
+          "options": [
+            "meteoric",
+            "avid",
+            "blatant",
+            "gripping"
+          ],
+          "explanation": "She is an avid reader of biographies. Common: reader, fan, collector.",
+          "id": "vocabulary-recall-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very obvious and without shame, usually something bad.",
+          "answer": "blatant",
+          "options": [
+            "breathtaking",
+            "harrowing",
+            "misleading",
+            "blatant"
+          ],
+          "explanation": "It was a blatant lie. Common: lie, foul, disregard.",
+          "id": "vocabulary-recall-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Remarkably beautiful or impressive.",
+          "answer": "breathtaking",
+          "options": [
+            "piercing",
+            "breathtaking",
+            "gripping",
+            "lax"
+          ],
+          "explanation": "The mountain view was breathtaking. Common: view, scenery.",
+          "id": "vocabulary-recall-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "So exciting that it holds your attention.",
+          "answer": "gripping",
+          "options": [
+            "harrowing",
+            "lenient",
+            "prolific",
+            "gripping"
+          ],
+          "explanation": "We watched a gripping thriller. Common: film, tale, novel.",
+          "id": "vocabulary-recall-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Deeply distressing or shocking.",
+          "answer": "harrowing",
+          "options": [
+            "sporadic",
+            "harrowing",
+            "lax",
+            "meteoric"
+          ],
+          "explanation": "The documentary contained harrowing accounts. Describes an experience or account.",
+          "id": "vocabulary-recall-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Not sufficiently strict or careful.",
+          "answer": "lax",
+          "options": [
+            "lenient",
+            "misleading",
+            "staunch",
+            "lax"
+          ],
+          "explanation": "Lax security allowed strangers inside. Common: security, discipline, enforcement.",
+          "id": "vocabulary-recall-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "Giving a less severe punishment than expected.",
+          "answer": "lenient",
+          "options": [
+            "sweeping",
+            "lenient",
+            "meteoric",
+            "piercing"
+          ],
+          "explanation": "The lenient judge issued a warning. Often describes judges, parents or teachers.",
+          "id": "vocabulary-recall-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "Extremely rapid and striking.",
+          "answer": "meteoric",
+          "options": [
+            "misleading",
+            "prolific",
+            "watertight",
+            "meteoric"
+          ],
+          "explanation": "The actor enjoyed a meteoric rise. Common: rise to fame.",
+          "id": "vocabulary-recall-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "Giving an incorrect impression.",
+          "answer": "misleading",
+          "options": [
+            "dreary",
+            "misleading",
+            "piercing",
+            "sporadic"
+          ],
+          "explanation": "The advertisement was misleading. Common: information, comments, advertising.",
+          "id": "vocabulary-recall-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very high and loud, especially a sound.",
+          "answer": "piercing",
+          "options": [
+            "prolific",
+            "staunch",
+            "dull",
+            "piercing"
+          ],
+          "explanation": "A piercing scream broke the silence. Common: scream, whistle.",
+          "id": "vocabulary-recall-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Producing a large amount of creative work.",
+          "answer": "prolific",
+          "options": [
+            "mundane",
+            "prolific",
+            "sporadic",
+            "sweeping"
+          ],
+          "explanation": "The prolific novelist publishes every year. Common: writer, composer, artist.",
+          "id": "vocabulary-recall-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Occurring at irregular intervals.",
+          "answer": "sporadic",
+          "options": [
+            "staunch",
+            "watertight",
+            "tedious",
+            "sporadic"
+          ],
+          "explanation": "Sporadic fighting continued near the border. Common: fighting, outbreaks, showers.",
+          "id": "vocabulary-recall-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Firm and loyal in support.",
+          "answer": "staunch",
+          "options": [
+            "atrocious",
+            "staunch",
+            "sweeping",
+            "dreary"
+          ],
+          "explanation": "He remained a staunch ally. Common: supporter, friend, ally.",
+          "id": "vocabulary-recall-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Broad and general, or affecting many things.",
+          "answer": "sweeping",
+          "options": [
+            "watertight",
+            "dull",
+            "dreadful",
+            "sweeping"
+          ],
+          "explanation": "The proposal introduced sweeping changes. Common: generalisation, reforms, changes.",
+          "id": "vocabulary-recall-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "So sound that it is difficult to challenge.",
+          "answer": "watertight",
+          "options": [
+            "lousy",
+            "watertight",
+            "dreary",
+            "mundane"
+          ],
+          "explanation": "Her argument was watertight. Common: alibi, case, argument.",
+          "id": "vocabulary-recall-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Dull and depressing.",
+          "answer": "dreary",
+          "options": [
+            "dull",
+            "tedious",
+            "flawless",
+            "dreary"
+          ],
+          "explanation": "It was a dreary afternoon. Boring group.",
+          "id": "vocabulary-recall-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Lacking interest, excitement or brightness.",
+          "answer": "dull",
+          "options": [
+            "impeccable",
+            "dull",
+            "mundane",
+            "atrocious"
+          ],
+          "explanation": "The lecture was dull. Boring group.",
+          "id": "vocabulary-recall-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Ordinary and lacking excitement.",
+          "answer": "mundane",
+          "options": [
+            "tedious",
+            "dreadful",
+            "unblemished",
+            "mundane"
+          ],
+          "explanation": "He wanted a break from mundane chores. Boring group.",
+          "id": "vocabulary-recall-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Long, tiresome and boring.",
+          "answer": "tedious",
+          "options": [
+            "arduous",
+            "tedious",
+            "atrocious",
+            "lousy"
+          ],
+          "explanation": "Entering the data was tedious. Boring group.",
+          "id": "vocabulary-recall-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Extremely bad.",
+          "answer": "atrocious",
+          "options": [
+            "dreadful",
+            "flawless",
+            "gruelling",
+            "atrocious"
+          ],
+          "explanation": "The service was atrocious. Bad group.",
+          "id": "vocabulary-recall-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very bad or unpleasant.",
+          "answer": "dreadful",
+          "options": [
+            "strenuous",
+            "dreadful",
+            "lousy",
+            "impeccable"
+          ],
+          "explanation": "We drove through dreadful weather. Bad group.",
+          "id": "vocabulary-recall-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very bad, in informal language.",
+          "answer": "lousy",
+          "options": [
+            "flawless",
+            "unblemished",
+            "bedraggled",
+            "lousy"
+          ],
+          "explanation": "I had a lousy day. Bad group; informal.",
+          "id": "vocabulary-recall-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Without any faults.",
+          "answer": "flawless",
+          "options": [
+            "dishevelled",
+            "flawless",
+            "impeccable",
+            "arduous"
+          ],
+          "explanation": "Her performance was flawless. Perfect group.",
+          "id": "vocabulary-recall-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Of a very high standard, without faults.",
+          "answer": "impeccable",
+          "options": [
+            "unblemished",
+            "gruelling",
+            "scruffy",
+            "impeccable"
+          ],
+          "explanation": "His manners were impeccable. Perfect group.",
+          "id": "vocabulary-recall-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Not damaged or spoiled by faults or wrongdoing.",
+          "answer": "unblemished",
+          "options": [
+            "astute",
+            "unblemished",
+            "arduous",
+            "strenuous"
+          ],
+          "explanation": "She has an unblemished record. Perfect group.",
+          "id": "vocabulary-recall-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Difficult and requiring sustained effort.",
+          "answer": "arduous",
+          "options": [
+            "gruelling",
+            "bedraggled",
+            "crafty",
+            "arduous"
+          ],
+          "explanation": "The rescue involved an arduous climb. Difficult group; normally written arduous.",
+          "id": "vocabulary-recall-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Exhausting and demanding over a long period.",
+          "answer": "gruelling",
+          "options": [
+            "shrewd",
+            "gruelling",
+            "strenuous",
+            "dishevelled"
+          ],
+          "explanation": "They endured a gruelling schedule. Difficult group; US spelling: grueling.",
+          "id": "vocabulary-recall-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Requiring great physical effort or energetic opposition.",
+          "answer": "strenuous",
+          "options": [
+            "bedraggled",
+            "scruffy",
+            "wily",
+            "strenuous"
+          ],
+          "explanation": "Avoid strenuous exercise today. Difficult group.",
+          "id": "vocabulary-recall-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Wet, dirty and untidy.",
+          "answer": "bedraggled",
+          "options": [
+            "conventional",
+            "bedraggled",
+            "dishevelled",
+            "astute"
+          ],
+          "explanation": "The bedraggled hikers reached the shelter. Untidy group.",
+          "id": "vocabulary-recall-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Untidy, especially hair or appearance.",
+          "answer": "dishevelled",
+          "options": [
+            "scruffy",
+            "crafty",
+            "mainstream",
+            "dishevelled"
+          ],
+          "explanation": "He arrived with dishevelled hair. Untidy group; US: disheveled.",
+          "id": "vocabulary-recall-30"
+        },
+        {
+          "type": "choice",
+          "prompt": "Untidy or shabby.",
+          "answer": "scruffy",
+          "options": [
+            "middle-of-the-road",
+            "scruffy",
+            "astute",
+            "shrewd"
+          ],
+          "explanation": "He wore a scruffy pair of jeans. Untidy group.",
+          "id": "vocabulary-recall-31"
+        },
+        {
+          "type": "choice",
+          "prompt": "Good at understanding situations and judging them.",
+          "answer": "astute",
+          "options": [
+            "crafty",
+            "wily",
+            "run-of-the-mill",
+            "astute"
+          ],
+          "explanation": "It was an astute decision. Clever group.",
+          "id": "vocabulary-recall-32"
+        },
+        {
+          "type": "choice",
+          "prompt": "Clever in a deceptive or cunning way.",
+          "answer": "crafty",
+          "options": [
+            "avid",
+            "crafty",
+            "shrewd",
+            "conventional"
+          ],
+          "explanation": "They devised a crafty plan. Clever group.",
+          "id": "vocabulary-recall-33"
+        },
+        {
+          "type": "choice",
+          "prompt": "Showing good practical judgement.",
+          "answer": "shrewd",
+          "options": [
+            "wily",
+            "mainstream",
+            "blatant",
+            "shrewd"
+          ],
+          "explanation": "She made a shrewd investment. Clever group.",
+          "id": "vocabulary-recall-34"
+        },
+        {
+          "type": "choice",
+          "prompt": "Experienced and clever at gaining an advantage.",
+          "answer": "wily",
+          "options": [
+            "breathtaking",
+            "wily",
+            "conventional",
+            "middle-of-the-road"
+          ],
+          "explanation": "The wily negotiator anticipated the objection. Clever group.",
+          "id": "vocabulary-recall-35"
+        },
+        {
+          "type": "choice",
+          "prompt": "Following accepted or ordinary ideas.",
+          "answer": "conventional",
+          "options": [
+            "mainstream",
+            "run-of-the-mill",
+            "gripping",
+            "conventional"
+          ],
+          "explanation": "He favours conventional teaching methods. Ordinary group.",
+          "id": "vocabulary-recall-36"
+        },
+        {
+          "type": "choice",
+          "prompt": "Accepted by most people; not extreme.",
+          "answer": "mainstream",
+          "options": [
+            "harrowing",
+            "mainstream",
+            "middle-of-the-road",
+            "avid"
+          ],
+          "explanation": "The idea is now part of mainstream politics. Ordinary group.",
+          "id": "vocabulary-recall-37"
+        },
+        {
+          "type": "choice",
+          "prompt": "Moderate and avoiding extremes.",
+          "answer": "middle-of-the-road",
+          "options": [
+            "run-of-the-mill",
+            "blatant",
+            "lax",
+            "middle-of-the-road"
+          ],
+          "explanation": "The candidate had middle-of-the-road views. Ordinary group.",
+          "id": "vocabulary-recall-38"
+        },
+        {
+          "type": "choice",
+          "prompt": "Ordinary and unremarkable.",
+          "answer": "run-of-the-mill",
+          "options": [
+            "lenient",
+            "run-of-the-mill",
+            "avid",
+            "breathtaking"
+          ],
+          "explanation": "It was a run-of-the-mill hotel. Ordinary group.",
+          "id": "vocabulary-recall-39"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  }
+}

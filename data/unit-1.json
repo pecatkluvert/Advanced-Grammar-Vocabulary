@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-1",
+  "number": 1,
+  "title": "Adjectives I: Behaviour & Traits",
+  "shortTitle": "People & personality",
+  "description": "Find the precise words for personality, behaviour and attitude.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Describe behaviour with precision",
+    "Recognise positive and negative connotations",
+    "Support an interpretation with evidence"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 1,
+    "note": "Lesson explanations, examples and practice have been adapted for independent study from the supplied unit. Answers and explanations are editorial, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Describe the person, not just the mood",
+      "body": "A trait is a characteristic that often appears in someone’s behaviour. A mood is a temporary state. Context tells you whether an adjective describes a lasting trait or today’s behaviour.",
+      "examples": [
+        "She is meticulous about every report.",
+        "He seems sullen today."
+      ]
+    },
+    {
+      "title": "Position of adjectives",
+      "body": "The adjectives in this unit can come before a noun or after a linking verb such as be, seem or become. After be, use an adjective rather than a noun.",
+      "examples": [
+        "a cheerful colleague → The colleague is cheerful.",
+        "a reckless decision → The decision was reckless."
+      ]
+    },
+    {
+      "title": "Connotation changes the message",
+      "body": "Words can praise, criticise or depend on context. Persistent can praise determination or criticise someone who will not accept a refusal. Inquisitive can describe curiosity or intrusive questioning.",
+      "examples": [
+        "An inquisitive student asks thoughtful questions.",
+        "An inquisitive neighbour asks about your private life."
+      ]
+    },
+    {
+      "title": "Choose between close meanings",
+      "body": "Blunt means direct, even when the truth hurts. Curt means very brief in a way that can sound rude. Callous stresses indifference to suffering; ruthless stresses a willingness to act without mercy.",
+      "examples": [
+        "Her blunt feedback was useful, though painful.",
+        "His curt “No” ended the conversation."
+      ]
+    },
+    {
+      "title": "Read for evidence",
+      "body": "Do not infer a trait from appearance alone. Find actions or language that support it. Taking dangerous risks supports reckless; checking every detail supports meticulous.",
+      "examples": [
+        "He checked the figures three times: meticulous.",
+        "She kept asking after several refusals: persistent."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "blunt",
+      "definition": "Direct, even when the truth may hurt.",
+      "example": "To be blunt, the plan needs more work.",
+      "note": "Context-dependent; not the same as merely brief."
+    },
+    {
+      "term": "brash",
+      "definition": "Loud and too confident in an irritating way.",
+      "example": "His brash manner dominated the meeting.",
+      "note": "Usually critical."
+    },
+    {
+      "term": "calculating",
+      "definition": "Planning cleverly for personal gain without concern for others.",
+      "example": "Her apparently friendly offer was calculating.",
+      "note": "Usually critical."
+    },
+    {
+      "term": "callous",
+      "definition": "Showing little concern for other people’s pain.",
+      "example": "The callous remark upset the whole team.",
+      "note": "Negative."
+    },
+    {
+      "term": "cantankerous",
+      "definition": "Bad-tempered and inclined to argue.",
+      "example": "Our cantankerous neighbour disputes every small change.",
+      "note": "Negative."
+    },
+    {
+      "term": "cheerful",
+      "definition": "Happy and positive in mood.",
+      "example": "Her cheerful greeting brightened the morning.",
+      "note": "Positive."
+    },
+    {
+      "term": "curt",
+      "definition": "So brief and abrupt that it sounds rude.",
+      "example": "He gave a curt reply and walked away.",
+      "note": "Negative."
+    },
+    {
+      "term": "fickle",
+      "definition": "Changing loyalties or preferences too easily.",
+      "example": "Fickle supporters abandoned the team after one loss.",
+      "note": "Negative."
+    },
+    {
+      "term": "inquisitive",
+      "definition": "Eager to learn, or too curious about private matters.",
+      "example": "The inquisitive child wanted to know how it worked.",
+      "note": "Positive or negative, depending on context."
+    },
+    {
+      "term": "meticulous",
+      "definition": "Extremely careful about small details.",
+      "example": "The editor was meticulous about punctuation.",
+      "note": "Often approving; can imply excessive care."
+    },
+    {
+      "term": "persistent",
+      "definition": "Continuing despite difficulty or opposition.",
+      "example": "Her persistent efforts finally paid off.",
+      "note": "Can be positive or negative."
+    },
+    {
+      "term": "reckless",
+      "definition": "Taking risks without considering the danger.",
+      "example": "Driving through the flood was reckless.",
+      "note": "Negative; also describes actions."
+    },
+    {
+      "term": "ruthless",
+      "definition": "Prepared to act without mercy to achieve a goal.",
+      "example": "The ruthless leader silenced every critic.",
+      "note": "Negative; also describes actions."
+    },
+    {
+      "term": "squeamish",
+      "definition": "Easily upset by blood or other unpleasant sights.",
+      "example": "I am too squeamish to watch the operation.",
+      "note": "Context-dependent."
+    },
+    {
+      "term": "sullen",
+      "definition": "Silent, gloomy and bad-tempered.",
+      "example": "He sat in sullen silence after the argument.",
+      "note": "Negative."
+    },
+    {
+      "term": "unscrupulous",
+      "definition": "Willing to act dishonestly or immorally for gain.",
+      "example": "An unscrupulous seller hid the damage.",
+      "note": "Negative."
+    },
+    {
+      "term": "volatile",
+      "definition": "Likely to become angry suddenly.",
+      "example": "His volatile temper made discussions difficult.",
+      "note": "Negative in descriptions of temperament."
+    },
+    {
+      "term": "withdrawn",
+      "definition": "Quiet and unwilling to interact with others.",
+      "example": "She became withdrawn after moving schools.",
+      "note": "A description, not a diagnosis."
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "character-reading",
+      "title": "Read the character sketches",
+      "instruction": "Use only the information in the passage.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Scarlet has strong moral scruples.",
+          "answer": "False",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "Her pursuit has no moral limits.",
+          "id": "character-reading-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Scarlet is calculating.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "She carefully plans how to get power.",
+          "id": "character-reading-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is ruthless.",
+          "answer": "True",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "He shows no mercy.",
+          "id": "character-reading-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is squeamish.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "Violence does not upset him.",
+          "id": "character-reading-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is meticulous.",
+          "answer": "True",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "He pays close attention to details.",
+          "id": "character-reading-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is fickle.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He is loyal to Scarlet.",
+          "id": "character-reading-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "D’Avila is volatile.",
+          "answer": "True",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "He becomes angry quickly.",
+          "id": "character-reading-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "D’Avila is brash.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "His manner is loud and showy.",
+          "id": "character-reading-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "Jansen is withdrawn.",
+          "answer": "True",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "He avoids company.",
+          "id": "character-reading-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Jansen is reckless.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He takes dangerous risks.",
+          "id": "character-reading-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Jansen is cheerful.",
+          "answer": "False",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "The description suggests isolation and abruptness.",
+          "id": "character-reading-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Bonomi is cantankerous.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He argues over small matters.",
+          "id": "character-reading-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Bonomi avoids saying what he thinks.",
+          "answer": "False",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "He says exactly what he thinks.",
+          "id": "character-reading-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Laura Hyde is inquisitive.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "She is curious and investigates.",
+          "id": "character-reading-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Laura Hyde gives up easily.",
+          "answer": "False",
+          "options": [
+            "False",
+            "True"
+          ],
+          "explanation": "She continues until she finds the truth.",
+          "id": "character-reading-15"
+        }
+      ],
+      "passage": "Scarlet pursues money and power without moral limits and carefully plans every move. Vance is her loyal assistant: merciless, calm around violence, and extremely careful about details. D’Avila is loud, showy, risk-loving and quick to anger. Jansen, a police officer, avoids company, speaks abruptly and takes dangerous risks. Captain Bonomi argues over small matters and says exactly what he thinks. Reporter Laura Hyde is curious and keeps investigating until she finds the truth."
+    },
+    {
+      "id": "choose-trait",
+      "title": "Choose the trait",
+      "instruction": "Select the adjective that best fits the behaviour.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "A researcher checks every citation twice.",
+          "answer": "meticulous",
+          "options": [
+            "meticulous",
+            "fickle",
+            "brash",
+            "reckless"
+          ],
+          "explanation": "Meticulous people pay attention to details.",
+          "id": "choose-trait-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "A seller knowingly hides serious defects.",
+          "answer": "unscrupulous",
+          "options": [
+            "unscrupulous",
+            "squeamish",
+            "cheerful",
+            "withdrawn"
+          ],
+          "explanation": "The behaviour is dishonest and self-serving.",
+          "id": "choose-trait-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "A driver races through red lights.",
+          "answer": "reckless",
+          "options": [
+            "sullen",
+            "reckless",
+            "curt",
+            "meticulous"
+          ],
+          "explanation": "The driver ignores dangerous consequences.",
+          "id": "choose-trait-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "A guest asks endless questions about private finances.",
+          "answer": "inquisitive",
+          "options": [
+            "inquisitive",
+            "ruthless",
+            "fickle",
+            "cheerful"
+          ],
+          "explanation": "Inquisitive can be critical when curiosity is intrusive.",
+          "id": "choose-trait-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "A person keeps changing which friend they support.",
+          "answer": "fickle",
+          "options": [
+            "fickle",
+            "blunt",
+            "callous",
+            "persistent"
+          ],
+          "explanation": "Fickle describes unstable loyalties.",
+          "id": "choose-trait-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Someone becomes angry with almost no warning.",
+          "answer": "volatile",
+          "options": [
+            "meticulous",
+            "squeamish",
+            "withdrawn",
+            "volatile"
+          ],
+          "explanation": "Volatile describes a quickly changing temper.",
+          "id": "choose-trait-6"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-recall",
+      "title": "Vocabulary recall",
+      "instruction": "Choose the word or phrase that matches the meaning.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Direct, even when the truth may hurt.",
+          "answer": "blunt",
+          "options": [
+            "callous",
+            "fickle",
+            "blunt",
+            "brash"
+          ],
+          "explanation": "To be blunt, the plan needs more work. Context-dependent; not the same as merely brief.",
+          "id": "vocabulary-recall-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Loud and too confident in an irritating way.",
+          "answer": "brash",
+          "options": [
+            "brash",
+            "calculating",
+            "cantankerous",
+            "inquisitive"
+          ],
+          "explanation": "His brash manner dominated the meeting. Usually critical.",
+          "id": "vocabulary-recall-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Planning cleverly for personal gain without concern for others.",
+          "answer": "calculating",
+          "options": [
+            "cheerful",
+            "meticulous",
+            "calculating",
+            "callous"
+          ],
+          "explanation": "Her apparently friendly offer was calculating. Usually critical.",
+          "id": "vocabulary-recall-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "Showing little concern for other people’s pain.",
+          "answer": "callous",
+          "options": [
+            "callous",
+            "cantankerous",
+            "curt",
+            "persistent"
+          ],
+          "explanation": "The callous remark upset the whole team. Negative.",
+          "id": "vocabulary-recall-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Bad-tempered and inclined to argue.",
+          "answer": "cantankerous",
+          "options": [
+            "fickle",
+            "reckless",
+            "cantankerous",
+            "cheerful"
+          ],
+          "explanation": "Our cantankerous neighbour disputes every small change. Negative.",
+          "id": "vocabulary-recall-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Happy and positive in mood.",
+          "answer": "cheerful",
+          "options": [
+            "cheerful",
+            "curt",
+            "inquisitive",
+            "ruthless"
+          ],
+          "explanation": "Her cheerful greeting brightened the morning. Positive.",
+          "id": "vocabulary-recall-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "So brief and abrupt that it sounds rude.",
+          "answer": "curt",
+          "options": [
+            "meticulous",
+            "squeamish",
+            "curt",
+            "fickle"
+          ],
+          "explanation": "He gave a curt reply and walked away. Negative.",
+          "id": "vocabulary-recall-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "Changing loyalties or preferences too easily.",
+          "answer": "fickle",
+          "options": [
+            "fickle",
+            "inquisitive",
+            "persistent",
+            "sullen"
+          ],
+          "explanation": "Fickle supporters abandoned the team after one loss. Negative.",
+          "id": "vocabulary-recall-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "Eager to learn, or too curious about private matters.",
+          "answer": "inquisitive",
+          "options": [
+            "reckless",
+            "unscrupulous",
+            "inquisitive",
+            "meticulous"
+          ],
+          "explanation": "The inquisitive child wanted to know how it worked. Positive or negative, depending on context.",
+          "id": "vocabulary-recall-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Extremely careful about small details.",
+          "answer": "meticulous",
+          "options": [
+            "meticulous",
+            "persistent",
+            "ruthless",
+            "volatile"
+          ],
+          "explanation": "The editor was meticulous about punctuation. Often approving; can imply excessive care.",
+          "id": "vocabulary-recall-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Continuing despite difficulty or opposition.",
+          "answer": "persistent",
+          "options": [
+            "squeamish",
+            "withdrawn",
+            "persistent",
+            "reckless"
+          ],
+          "explanation": "Her persistent efforts finally paid off. Can be positive or negative.",
+          "id": "vocabulary-recall-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Taking risks without considering the danger.",
+          "answer": "reckless",
+          "options": [
+            "reckless",
+            "ruthless",
+            "sullen",
+            "blunt"
+          ],
+          "explanation": "Driving through the flood was reckless. Negative; also describes actions.",
+          "id": "vocabulary-recall-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Prepared to act without mercy to achieve a goal.",
+          "answer": "ruthless",
+          "options": [
+            "unscrupulous",
+            "brash",
+            "ruthless",
+            "squeamish"
+          ],
+          "explanation": "The ruthless leader silenced every critic. Negative; also describes actions.",
+          "id": "vocabulary-recall-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Easily upset by blood or other unpleasant sights.",
+          "answer": "squeamish",
+          "options": [
+            "squeamish",
+            "sullen",
+            "volatile",
+            "calculating"
+          ],
+          "explanation": "I am too squeamish to watch the operation. Context-dependent.",
+          "id": "vocabulary-recall-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Silent, gloomy and bad-tempered.",
+          "answer": "sullen",
+          "options": [
+            "withdrawn",
+            "callous",
+            "sullen",
+            "unscrupulous"
+          ],
+          "explanation": "He sat in sullen silence after the argument. Negative.",
+          "id": "vocabulary-recall-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Willing to act dishonestly or immorally for gain.",
+          "answer": "unscrupulous",
+          "options": [
+            "unscrupulous",
+            "volatile",
+            "blunt",
+            "cantankerous"
+          ],
+          "explanation": "An unscrupulous seller hid the damage. Negative.",
+          "id": "vocabulary-recall-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Likely to become angry suddenly.",
+          "answer": "volatile",
+          "options": [
+            "brash",
+            "cheerful",
+            "volatile",
+            "withdrawn"
+          ],
+          "explanation": "His volatile temper made discussions difficult. Negative in descriptions of temperament.",
+          "id": "vocabulary-recall-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quiet and unwilling to interact with others.",
+          "answer": "withdrawn",
+          "options": [
+            "withdrawn",
+            "blunt",
+            "calculating",
+            "curt"
+          ],
+          "explanation": "She became withdrawn after moving schools. A description, not a diagnosis.",
+          "id": "vocabulary-recall-18"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "AV-001-2.mp3 is a filename-based suggestion only. Confirm the recording before assigning it. The supplied PDF has no transcript or listening answer key.",
+    "activities": [
+      {
+        "id": "speakers",
+        "title": "Exercise 2a · Identify the speaker",
+        "instruction": "Listen to the five extracts. Match each extract to a profession. Three options are unused.",
+        "options": [
+          "photographer",
+          "stuntman",
+          "film director",
+          "librarian",
+          "book dealer",
+          "accountant",
+          "antiques dealer",
+          "physician"
+        ],
+        "extracts": 5,
+        "answerKey": null
+      },
+      {
+        "id": "traits",
+        "title": "Exercise 2b · Identify the adjective",
+        "instruction": "Listen again. Choose the adjective that fits each speaker. Three options are unused.",
+        "options": [
+          "reckless",
+          "meticulous",
+          "blunt",
+          "withdrawn",
+          "cantankerous",
+          "squeamish",
+          "persistent",
+          "unscrupulous"
+        ],
+        "extracts": 5,
+        "answerKey": null
+      }
+    ],
+    "suggestedTrack": "AV-001-2.mp3"
+  }
+}

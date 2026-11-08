@@ -1,0 +1,985 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-3",
+  "number": 3,
+  "title": "Adjectives III: Word Formation",
+  "shortTitle": "Build & transform words",
+  "description": "Use prefixes, suffixes and sentence clues to form the right adjective.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Build opposites with negative prefixes",
+    "Form adjectives from related words",
+    "Use meaning and grammar to choose the form"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 3,
+    "note": "Lesson explanations, examples and practice have been adapted for independent study from the supplied unit. Answers and explanations are editorial, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Start with the sentence",
+      "body": "Identify the required word class. A gap before a noun often needs an adjective. A gap after a linking verb can also need an adjective. Then check whether the meaning must be positive or negative.",
+      "examples": [
+        "an informative programme",
+        "The explanation seems implausible."
+      ]
+    },
+    {
+      "title": "Negative prefixes",
+      "body": "English uses several negative prefixes: un-, in-, im-, il-, ir-, dis- and ab-. Learn each full word; the choice is not always predictable. In- often becomes im- before p or m, il- before l and ir- before r.",
+      "examples": [
+        "polite → impolite; logical → illogical",
+        "responsible → irresponsible; loyal → disloyal",
+        "normal → abnormal; ripe → unripe"
+      ]
+    },
+    {
+      "title": "Adjective suffixes",
+      "body": "Suffixes can change a noun or verb into an adjective. Common patterns include -ive, -able, -ible, -ic, -ial, -less and -ish. Spelling sometimes changes.",
+      "examples": [
+        "persuade → persuasive",
+        "apologise → apologetic",
+        "child → childish; sleep → sleepless"
+      ]
+    },
+    {
+      "title": "Watch meaning, not just spelling",
+      "body": "Related forms may have different meanings. Arguable means open to debate or capable of being argued; argumentative describes someone who argues. Economic relates to the economy; economical means using resources carefully.",
+      "examples": [
+        "an arguable claim; an argumentative person",
+        "an economic crisis; an economical car"
+      ]
+    },
+    {
+      "title": "Check the finished answer",
+      "body": "Read the whole sentence again. Check spelling, meaning, agreement and the collocation. Do not add a negative prefix unless the context requires it.",
+      "examples": [
+        "The text is too blurred to read: illegible.",
+        "The explanation makes sense: logical."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "accessible",
+      "definition": "Easy to reach, enter or use.",
+      "example": "The library is accessible to wheelchair users.",
+      "note": "accessibility; opposite: inaccessible."
+    },
+    {
+      "term": "accurate",
+      "definition": "Correct and precise.",
+      "example": "The measurements are accurate.",
+      "note": "accuracy; opposite: inaccurate."
+    },
+    {
+      "term": "apologetic",
+      "definition": "Showing that you are sorry.",
+      "example": "She sounded apologetic about the delay.",
+      "note": "Related to apologise/apologize and apology."
+    },
+    {
+      "term": "arguable",
+      "definition": "Open to debate, or possible to argue.",
+      "example": "It is arguable that the policy helped.",
+      "note": "Different from argumentative."
+    },
+    {
+      "term": "argumentative",
+      "definition": "Inclined to disagree and argue.",
+      "example": "He becomes argumentative when tired.",
+      "note": "Describes behaviour."
+    },
+    {
+      "term": "coherent",
+      "definition": "Clear, logical and well organised.",
+      "example": "She gave a coherent account.",
+      "note": "coherence; opposite: incoherent."
+    },
+    {
+      "term": "decisive",
+      "definition": "Able to make firm decisions promptly.",
+      "example": "We need a decisive leader.",
+      "note": "decisiveness; opposite: indecisive."
+    },
+    {
+      "term": "discreet",
+      "definition": "Careful not to embarrass others or reveal private information.",
+      "example": "Please be discreet about the news.",
+      "note": "discretion; opposite: indiscreet. Not discrete (separate)."
+    },
+    {
+      "term": "excessive",
+      "definition": "Greater than necessary or reasonable.",
+      "example": "The fee seems excessive.",
+      "note": "From excess; excessive exposure."
+    },
+    {
+      "term": "knowledgeable",
+      "definition": "Well informed about a subject.",
+      "example": "He is knowledgeable about birds.",
+      "note": "From knowledge."
+    },
+    {
+      "term": "legible",
+      "definition": "Clear enough to read.",
+      "example": "Please make your handwriting legible.",
+      "note": "legibility; opposite: illegible."
+    },
+    {
+      "term": "logical",
+      "definition": "Reasonable and following clear reasoning.",
+      "example": "There is a logical explanation.",
+      "note": "logic; opposite: illogical."
+    },
+    {
+      "term": "loyal",
+      "definition": "Faithful and supportive.",
+      "example": "She remained a loyal friend.",
+      "note": "loyalty; opposite: disloyal."
+    },
+    {
+      "term": "normal",
+      "definition": "Usual or expected.",
+      "example": "Service has returned to normal.",
+      "note": "normality; opposite: abnormal."
+    },
+    {
+      "term": "obedient",
+      "definition": "Doing what you are told to do.",
+      "example": "The dog is very obedient.",
+      "note": "obedience; opposite: disobedient."
+    },
+    {
+      "term": "official",
+      "definition": "Approved by an authority.",
+      "example": "Wait for the official announcement.",
+      "note": "opposite: unofficial."
+    },
+    {
+      "term": "orthodox",
+      "definition": "Following accepted beliefs or methods.",
+      "example": "His approach is orthodox.",
+      "note": "orthodoxy; opposite: unorthodox."
+    },
+    {
+      "term": "plausible",
+      "definition": "Believable or reasonably likely to be true.",
+      "example": "That sounds like a plausible explanation.",
+      "note": "plausibility; opposite: implausible."
+    },
+    {
+      "term": "polite",
+      "definition": "Showing good manners.",
+      "example": "It was a polite request.",
+      "note": "politeness; opposite: impolite."
+    },
+    {
+      "term": "practical",
+      "definition": "Sensible and likely to work in real situations.",
+      "example": "We need a practical solution.",
+      "note": "practicality; opposite: impractical."
+    },
+    {
+      "term": "precise",
+      "definition": "Exact and carefully specified.",
+      "example": "Give me the precise location.",
+      "note": "precision; opposite: imprecise."
+    },
+    {
+      "term": "preferential",
+      "definition": "Giving someone an advantage over others.",
+      "example": "Relatives should not receive preferential treatment.",
+      "note": "From prefer; common: preferential treatment."
+    },
+    {
+      "term": "replaceable",
+      "definition": "Able to be replaced.",
+      "example": "The damaged part is replaceable.",
+      "note": "opposite: irreplaceable; not identical to disposable."
+    },
+    {
+      "term": "responsible",
+      "definition": "Behaving sensibly and reliably.",
+      "example": "She is a responsible employee.",
+      "note": "responsibility; opposite: irresponsible."
+    },
+    {
+      "term": "ripe",
+      "definition": "Fully developed and ready to eat.",
+      "example": "These pears are ripe.",
+      "note": "ripeness; opposite: unripe."
+    },
+    {
+      "term": "scrupulous",
+      "definition": "Very careful to act honestly and fairly.",
+      "example": "He is scrupulous about declaring expenses.",
+      "note": "scruples; opposite: unscrupulous."
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "opposites",
+      "title": "Build the opposite",
+      "instruction": "Type the complete negative adjective.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Write the opposite of plausible.",
+          "answer": [
+            "implausible"
+          ],
+          "explanation": "plausible → implausible. Learn the prefix with the complete word.",
+          "id": "opposites-1"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of polite.",
+          "answer": [
+            "impolite"
+          ],
+          "explanation": "polite → impolite. Learn the prefix with the complete word.",
+          "id": "opposites-2"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of scrupulous.",
+          "answer": [
+            "unscrupulous"
+          ],
+          "explanation": "scrupulous → unscrupulous. Learn the prefix with the complete word.",
+          "id": "opposites-3"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of ripe.",
+          "answer": [
+            "unripe"
+          ],
+          "explanation": "ripe → unripe. Learn the prefix with the complete word.",
+          "id": "opposites-4"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of decisive.",
+          "answer": [
+            "indecisive"
+          ],
+          "explanation": "decisive → indecisive. Learn the prefix with the complete word.",
+          "id": "opposites-5"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of accessible.",
+          "answer": [
+            "inaccessible"
+          ],
+          "explanation": "accessible → inaccessible. Learn the prefix with the complete word.",
+          "id": "opposites-6"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of normal.",
+          "answer": [
+            "abnormal"
+          ],
+          "explanation": "normal → abnormal. Learn the prefix with the complete word.",
+          "id": "opposites-7"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of orthodox.",
+          "answer": [
+            "unorthodox"
+          ],
+          "explanation": "orthodox → unorthodox. Learn the prefix with the complete word.",
+          "id": "opposites-8"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of logical.",
+          "answer": [
+            "illogical"
+          ],
+          "explanation": "logical → illogical. Learn the prefix with the complete word.",
+          "id": "opposites-9"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of replaceable.",
+          "answer": [
+            "irreplaceable"
+          ],
+          "explanation": "replaceable → irreplaceable. Learn the prefix with the complete word.",
+          "id": "opposites-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of practical.",
+          "answer": [
+            "impractical"
+          ],
+          "explanation": "practical → impractical. Learn the prefix with the complete word.",
+          "id": "opposites-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of accurate.",
+          "answer": [
+            "inaccurate"
+          ],
+          "explanation": "accurate → inaccurate. Learn the prefix with the complete word.",
+          "id": "opposites-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of discreet.",
+          "answer": [
+            "indiscreet"
+          ],
+          "explanation": "discreet → indiscreet. Learn the prefix with the complete word.",
+          "id": "opposites-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of obedient.",
+          "answer": [
+            "disobedient"
+          ],
+          "explanation": "obedient → disobedient. Learn the prefix with the complete word.",
+          "id": "opposites-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of loyal.",
+          "answer": [
+            "disloyal"
+          ],
+          "explanation": "loyal → disloyal. Learn the prefix with the complete word.",
+          "id": "opposites-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of precise.",
+          "answer": [
+            "imprecise"
+          ],
+          "explanation": "precise → imprecise. Learn the prefix with the complete word.",
+          "id": "opposites-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of coherent.",
+          "answer": [
+            "incoherent"
+          ],
+          "explanation": "coherent → incoherent. Learn the prefix with the complete word.",
+          "id": "opposites-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of legible.",
+          "answer": [
+            "illegible"
+          ],
+          "explanation": "legible → illegible. Learn the prefix with the complete word.",
+          "id": "opposites-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of responsible.",
+          "answer": [
+            "irresponsible"
+          ],
+          "explanation": "responsible → irresponsible. Learn the prefix with the complete word.",
+          "id": "opposites-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of official.",
+          "answer": [
+            "unofficial"
+          ],
+          "explanation": "official → unofficial. Learn the prefix with the complete word.",
+          "id": "opposites-20"
+        }
+      ]
+    },
+    {
+      "id": "word-formation",
+      "title": "Form the adjective",
+      "instruction": "Use the capitalised word to form an adjective that fits.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "No employee should receive ___ treatment. (PREFER)",
+          "answer": [
+            "preferential"
+          ],
+          "explanation": "Preferential treatment means a special advantage.",
+          "id": "word-formation-1"
+        },
+        {
+          "type": "text",
+          "prompt": "Stop behaving like a small child; it is ___. (CHILD)",
+          "answer": [
+            "childish"
+          ],
+          "explanation": "Childish criticises immature behaviour.",
+          "id": "word-formation-2"
+        },
+        {
+          "type": "text",
+          "prompt": "The programme taught me a great deal; it was ___. (INFORMATION)",
+          "answer": [
+            "informative"
+          ],
+          "explanation": "Informative means giving useful information.",
+          "id": "word-formation-3"
+        },
+        {
+          "type": "text",
+          "prompt": "The country faces a serious ___ crisis. (ECONOMY)",
+          "answer": [
+            "economic"
+          ],
+          "explanation": "Economic relates to the economy; economical means resource-saving.",
+          "id": "word-formation-4"
+        },
+        {
+          "type": "text",
+          "prompt": "He disagrees with everything and is very ___. (ARGUE)",
+          "answer": [
+            "argumentative"
+          ],
+          "explanation": "Argumentative describes someone inclined to argue.",
+          "id": "word-formation-5"
+        },
+        {
+          "type": "text",
+          "prompt": "Appearances can be ___. (DECEIVE)",
+          "answer": [
+            "deceptive",
+            "deceiving"
+          ],
+          "explanation": "Deceptive is the usual adjective here.",
+          "id": "word-formation-6"
+        },
+        {
+          "type": "text",
+          "prompt": "___ with his pay, he resigned. (SATISFY)",
+          "answer": [
+            "dissatisfied"
+          ],
+          "explanation": "The resignation indicates dissatisfaction, requiring a negative form.",
+          "id": "word-formation-7"
+        },
+        {
+          "type": "text",
+          "prompt": "For some ___ reason, she left without a word. (EXPLAIN)",
+          "answer": [
+            "inexplicable",
+            "unexplained",
+            "unexplainable"
+          ],
+          "explanation": "Inexplicable means impossible to explain; unexplained means no explanation has been given.",
+          "id": "word-formation-8"
+        },
+        {
+          "type": "text",
+          "prompt": "The judges found no faults: a ___ performance. (FLAW)",
+          "answer": [
+            "flawless"
+          ],
+          "explanation": "The suffix -less means without.",
+          "id": "word-formation-9"
+        },
+        {
+          "type": "text",
+          "prompt": "Too many ___ nights left him exhausted. (SLEEP)",
+          "answer": [
+            "sleepless"
+          ],
+          "explanation": "Sleepless means without sleep.",
+          "id": "word-formation-10"
+        },
+        {
+          "type": "text",
+          "prompt": "She can talk anyone into anything; she is ___. (PERSUADE)",
+          "answer": [
+            "persuasive"
+          ],
+          "explanation": "Persuasive means good at convincing others.",
+          "id": "word-formation-11"
+        },
+        {
+          "type": "text",
+          "prompt": "He was very ___ about missing the appointment. (APOLOGISE)",
+          "answer": [
+            "apologetic"
+          ],
+          "explanation": "Apologetic means showing regret.",
+          "id": "word-formation-12"
+        }
+      ]
+    },
+    {
+      "id": "education-context",
+      "title": "Education in context",
+      "instruction": "Build an adjective from the word in capitals.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "An ___ experience helps children learn. (EDUCATION)",
+          "answer": [
+            "educational"
+          ],
+          "explanation": "The appropriate adjective is educational. Check how it fits the sentence.",
+          "id": "education-context-1"
+        },
+        {
+          "type": "text",
+          "prompt": "A ___ economy rewards adaptable skills. (COMPETE)",
+          "answer": [
+            "competitive"
+          ],
+          "explanation": "The appropriate adjective is competitive. Check how it fits the sentence.",
+          "id": "education-context-2"
+        },
+        {
+          "type": "text",
+          "prompt": "Students need to be well-informed and ___. (KNOW)",
+          "answer": [
+            "knowledgeable"
+          ],
+          "explanation": "The appropriate adjective is knowledgeable. Check how it fits the sentence.",
+          "id": "education-context-3"
+        },
+        {
+          "type": "text",
+          "prompt": "It is ___ that one approach suits everyone. (ARGUE)",
+          "answer": [
+            "arguable"
+          ],
+          "explanation": "The appropriate adjective is arguable. Check how it fits the sentence.",
+          "id": "education-context-4"
+        },
+        {
+          "type": "text",
+          "prompt": "A ___ classroom is not the only place to learn. (TRADITION)",
+          "answer": [
+            "traditional"
+          ],
+          "explanation": "The appropriate adjective is traditional. Check how it fits the sentence.",
+          "id": "education-context-5"
+        },
+        {
+          "type": "text",
+          "prompt": "Learning everything at once is ___. (POSSIBLE)",
+          "answer": [
+            "impossible"
+          ],
+          "explanation": "The appropriate adjective is impossible. Check how it fits the sentence.",
+          "id": "education-context-6"
+        },
+        {
+          "type": "text",
+          "prompt": "___ screen time may be harmful. (EXCEED)",
+          "answer": [
+            "excessive"
+          ],
+          "explanation": "The appropriate adjective is excessive. Check how it fits the sentence.",
+          "id": "education-context-7"
+        },
+        {
+          "type": "text",
+          "prompt": "Well-designed practice can be ___. (BENEFIT)",
+          "answer": [
+            "beneficial"
+          ],
+          "explanation": "The appropriate adjective is beneficial. Check how it fits the sentence.",
+          "id": "education-context-8"
+        },
+        {
+          "type": "text",
+          "prompt": "A focused study session is more ___. (PRODUCE)",
+          "answer": [
+            "productive"
+          ],
+          "explanation": "The appropriate adjective is productive. Check how it fits the sentence.",
+          "id": "education-context-9"
+        },
+        {
+          "type": "text",
+          "prompt": "Games can have an ___ appeal. (RESIST)",
+          "answer": [
+            "irresistible"
+          ],
+          "explanation": "The appropriate adjective is irresistible. Check how it fits the sentence.",
+          "id": "education-context-10"
+        },
+        {
+          "type": "text",
+          "prompt": "For some tasks, a teacher may be ___ to a machine. (PREFER)",
+          "answer": [
+            "preferable"
+          ],
+          "explanation": "The appropriate adjective is preferable. Check how it fits the sentence.",
+          "id": "education-context-11"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-recall",
+      "title": "Vocabulary recall",
+      "instruction": "Choose the word or phrase that matches the meaning.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Easy to reach, enter or use.",
+          "answer": "accessible",
+          "options": [
+            "accessible",
+            "accurate",
+            "arguable",
+            "discreet"
+          ],
+          "explanation": "The library is accessible to wheelchair users. accessibility; opposite: inaccessible.",
+          "id": "vocabulary-recall-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Correct and precise.",
+          "answer": "accurate",
+          "options": [
+            "argumentative",
+            "excessive",
+            "accurate",
+            "apologetic"
+          ],
+          "explanation": "The measurements are accurate. accuracy; opposite: inaccurate.",
+          "id": "vocabulary-recall-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Showing that you are sorry.",
+          "answer": "apologetic",
+          "options": [
+            "apologetic",
+            "arguable",
+            "coherent",
+            "knowledgeable"
+          ],
+          "explanation": "She sounded apologetic about the delay. Related to apologise/apologize and apology.",
+          "id": "vocabulary-recall-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "Open to debate, or possible to argue.",
+          "answer": "arguable",
+          "options": [
+            "decisive",
+            "legible",
+            "arguable",
+            "argumentative"
+          ],
+          "explanation": "It is arguable that the policy helped. Different from argumentative.",
+          "id": "vocabulary-recall-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Inclined to disagree and argue.",
+          "answer": "argumentative",
+          "options": [
+            "argumentative",
+            "coherent",
+            "discreet",
+            "logical"
+          ],
+          "explanation": "He becomes argumentative when tired. Describes behaviour.",
+          "id": "vocabulary-recall-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "Clear, logical and well organised.",
+          "answer": "coherent",
+          "options": [
+            "excessive",
+            "loyal",
+            "coherent",
+            "decisive"
+          ],
+          "explanation": "She gave a coherent account. coherence; opposite: incoherent.",
+          "id": "vocabulary-recall-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "Able to make firm decisions promptly.",
+          "answer": "decisive",
+          "options": [
+            "decisive",
+            "discreet",
+            "knowledgeable",
+            "normal"
+          ],
+          "explanation": "We need a decisive leader. decisiveness; opposite: indecisive.",
+          "id": "vocabulary-recall-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "Careful not to embarrass others or reveal private information.",
+          "answer": "discreet",
+          "options": [
+            "legible",
+            "obedient",
+            "discreet",
+            "excessive"
+          ],
+          "explanation": "Please be discreet about the news. discretion; opposite: indiscreet. Not discrete (separate).",
+          "id": "vocabulary-recall-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "Greater than necessary or reasonable.",
+          "answer": "excessive",
+          "options": [
+            "excessive",
+            "knowledgeable",
+            "logical",
+            "official"
+          ],
+          "explanation": "The fee seems excessive. From excess; excessive exposure.",
+          "id": "vocabulary-recall-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "Well informed about a subject.",
+          "answer": "knowledgeable",
+          "options": [
+            "loyal",
+            "orthodox",
+            "knowledgeable",
+            "legible"
+          ],
+          "explanation": "He is knowledgeable about birds. From knowledge.",
+          "id": "vocabulary-recall-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Clear enough to read.",
+          "answer": "legible",
+          "options": [
+            "legible",
+            "logical",
+            "normal",
+            "plausible"
+          ],
+          "explanation": "Please make your handwriting legible. legibility; opposite: illegible.",
+          "id": "vocabulary-recall-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Reasonable and following clear reasoning.",
+          "answer": "logical",
+          "options": [
+            "obedient",
+            "polite",
+            "logical",
+            "loyal"
+          ],
+          "explanation": "There is a logical explanation. logic; opposite: illogical.",
+          "id": "vocabulary-recall-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Faithful and supportive.",
+          "answer": "loyal",
+          "options": [
+            "loyal",
+            "normal",
+            "official",
+            "practical"
+          ],
+          "explanation": "She remained a loyal friend. loyalty; opposite: disloyal.",
+          "id": "vocabulary-recall-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Usual or expected.",
+          "answer": "normal",
+          "options": [
+            "orthodox",
+            "precise",
+            "normal",
+            "obedient"
+          ],
+          "explanation": "Service has returned to normal. normality; opposite: abnormal.",
+          "id": "vocabulary-recall-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Doing what you are told to do.",
+          "answer": "obedient",
+          "options": [
+            "obedient",
+            "official",
+            "plausible",
+            "preferential"
+          ],
+          "explanation": "The dog is very obedient. obedience; opposite: disobedient.",
+          "id": "vocabulary-recall-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Approved by an authority.",
+          "answer": "official",
+          "options": [
+            "polite",
+            "replaceable",
+            "official",
+            "orthodox"
+          ],
+          "explanation": "Wait for the official announcement. opposite: unofficial.",
+          "id": "vocabulary-recall-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Following accepted beliefs or methods.",
+          "answer": "orthodox",
+          "options": [
+            "orthodox",
+            "plausible",
+            "practical",
+            "responsible"
+          ],
+          "explanation": "His approach is orthodox. orthodoxy; opposite: unorthodox.",
+          "id": "vocabulary-recall-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Believable or reasonably likely to be true.",
+          "answer": "plausible",
+          "options": [
+            "precise",
+            "ripe",
+            "plausible",
+            "polite"
+          ],
+          "explanation": "That sounds like a plausible explanation. plausibility; opposite: implausible.",
+          "id": "vocabulary-recall-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Showing good manners.",
+          "answer": "polite",
+          "options": [
+            "polite",
+            "practical",
+            "preferential",
+            "scrupulous"
+          ],
+          "explanation": "It was a polite request. politeness; opposite: impolite.",
+          "id": "vocabulary-recall-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Sensible and likely to work in real situations.",
+          "answer": "practical",
+          "options": [
+            "replaceable",
+            "accessible",
+            "practical",
+            "precise"
+          ],
+          "explanation": "We need a practical solution. practicality; opposite: impractical.",
+          "id": "vocabulary-recall-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Exact and carefully specified.",
+          "answer": "precise",
+          "options": [
+            "precise",
+            "preferential",
+            "responsible",
+            "accurate"
+          ],
+          "explanation": "Give me the precise location. precision; opposite: imprecise.",
+          "id": "vocabulary-recall-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Giving someone an advantage over others.",
+          "answer": "preferential",
+          "options": [
+            "ripe",
+            "apologetic",
+            "preferential",
+            "replaceable"
+          ],
+          "explanation": "Relatives should not receive preferential treatment. From prefer; common: preferential treatment.",
+          "id": "vocabulary-recall-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Able to be replaced.",
+          "answer": "replaceable",
+          "options": [
+            "replaceable",
+            "responsible",
+            "scrupulous",
+            "arguable"
+          ],
+          "explanation": "The damaged part is replaceable. opposite: irreplaceable; not identical to disposable.",
+          "id": "vocabulary-recall-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Behaving sensibly and reliably.",
+          "answer": "responsible",
+          "options": [
+            "accessible",
+            "argumentative",
+            "responsible",
+            "ripe"
+          ],
+          "explanation": "She is a responsible employee. responsibility; opposite: irresponsible.",
+          "id": "vocabulary-recall-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Fully developed and ready to eat.",
+          "answer": "ripe",
+          "options": [
+            "ripe",
+            "scrupulous",
+            "accurate",
+            "coherent"
+          ],
+          "explanation": "These pears are ripe. ripeness; opposite: unripe.",
+          "id": "vocabulary-recall-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very careful to act honestly and fairly.",
+          "answer": "scrupulous",
+          "options": [
+            "apologetic",
+            "decisive",
+            "scrupulous",
+            "accessible"
+          ],
+          "explanation": "He is scrupulous about declaring expenses. scruples; opposite: unscrupulous.",
+          "id": "vocabulary-recall-26"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  }
+}

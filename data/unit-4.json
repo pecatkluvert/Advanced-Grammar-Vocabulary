@@ -1,0 +1,837 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-4",
+  "number": 4,
+  "title": "Fixed Phrases with “and”",
+  "shortTitle": "Better together",
+  "description": "Learn fixed word pairs that make everyday English more natural.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Recognise common fixed pairs",
+    "Keep fixed phrases in their usual order",
+    "Use pair phrases in context"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 4,
+    "note": "Lesson explanations, examples and practice have been adapted for independent study from the supplied unit. Answers and explanations are editorial, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Fixed order matters",
+      "body": "Many expressions join words with and. Their meaning and order are conventional: learn the whole expression rather than translating one word at a time.",
+      "examples": [
+        "safe and sound, not sound and safe",
+        "odds and ends, not ends and odds"
+      ]
+    },
+    {
+      "title": "Meaning may be figurative",
+      "body": "The whole phrase may mean more than the individual words. By and large means generally; ins and outs means detailed information.",
+      "examples": [
+        "By and large, the plan worked.",
+        "Explain the ins and outs of the system."
+      ]
+    },
+    {
+      "title": "Fit the phrase into the sentence",
+      "body": "Some phrases behave like adverbs, some like nouns and others like adjectives. Learn the surrounding grammar along with the pair.",
+      "examples": [
+        "They won fair and square.",
+        "The car is her pride and joy.",
+        "It is part and parcel of the job."
+      ]
+    },
+    {
+      "title": "Hyphens and fixed forms",
+      "body": "Use hyphens when a compound acts as a single adjective before a noun where needed. The normal expression after a verb can look different.",
+      "examples": [
+        "an up-and-coming artist",
+        "an out-and-out lie",
+        "They arrived safe and sound."
+      ]
+    },
+    {
+      "title": "Choose the right situation",
+      "body": "Touch and go suggests uncertainty about an important outcome. Wear and tear is deterioration from normal use. These expressions are more specific than “uncertain” or “damage”.",
+      "examples": [
+        "It was touch and go whether the rescue would succeed.",
+        "The chairs show ordinary wear and tear."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "dribs and drabs",
+      "definition": "Small amounts arriving irregularly.",
+      "example": "Donations came in dribs and drabs.",
+      "note": "Often after in."
+    },
+    {
+      "term": "bright and early",
+      "definition": "Very early, with a positive sense of readiness.",
+      "example": "We set off bright and early.",
+      "note": "Often with leave, start or get up."
+    },
+    {
+      "term": "by and large",
+      "definition": "Generally; on the whole.",
+      "example": "By and large, the course was useful.",
+      "note": "Often introduces a general judgement."
+    },
+    {
+      "term": "few and far between",
+      "definition": "Uncommon or hard to find.",
+      "example": "Affordable flats are few and far between.",
+      "note": "Usually after be."
+    },
+    {
+      "term": "grin and bear it",
+      "definition": "Accept an unpleasant situation without complaining.",
+      "example": "We had to grin and bear it.",
+      "note": "Informal."
+    },
+    {
+      "term": "ins and outs",
+      "definition": "The details of a complicated situation.",
+      "example": "She explained the ins and outs of the contract.",
+      "note": "Usually the ins and outs of."
+    },
+    {
+      "term": "song and dance",
+      "definition": "An unnecessary fuss.",
+      "example": "Do not make a song and dance about the delay.",
+      "note": "Usually make a song and dance about."
+    },
+    {
+      "term": "odds and ends",
+      "definition": "Various small items.",
+      "example": "A drawer held a few odds and ends.",
+      "note": "Plural noun phrase."
+    },
+    {
+      "term": "once and for all",
+      "definition": "Finally and decisively, ending doubt or repetition.",
+      "example": "Let us settle this once and for all.",
+      "note": "Not simply one time."
+    },
+    {
+      "term": "flesh and blood",
+      "definition": "A person’s relatives or family.",
+      "example": "He is your own flesh and blood.",
+      "note": "Often own flesh and blood."
+    },
+    {
+      "term": "out-and-out",
+      "definition": "Complete or absolute.",
+      "example": "That is an out-and-out lie.",
+      "note": "Compound adjective; often negative."
+    },
+    {
+      "term": "part and parcel",
+      "definition": "An essential or unavoidable part.",
+      "example": "Revision is part and parcel of learning.",
+      "note": "Usually part and parcel of."
+    },
+    {
+      "term": "peace and quiet",
+      "definition": "Calm and freedom from disturbance.",
+      "example": "I need some peace and quiet.",
+      "note": "Uncountable phrase."
+    },
+    {
+      "term": "pride and joy",
+      "definition": "Someone or something especially valued.",
+      "example": "Her garden is her pride and joy.",
+      "note": "Usually possessive + pride and joy."
+    },
+    {
+      "term": "prim and proper",
+      "definition": "Very formal, conventional and easily shocked.",
+      "example": "She was too prim and proper for the joke.",
+      "note": "Describes a person or manner."
+    },
+    {
+      "term": "pushing and shoving",
+      "definition": "Forceful pushing in a crowd.",
+      "example": "There was pushing and shoving at the entrance.",
+      "note": "Usually describes a crowd."
+    },
+    {
+      "term": "safe and sound",
+      "definition": "Safe and unharmed after possible danger.",
+      "example": "The missing hikers returned safe and sound.",
+      "note": "Often after arrive, return or be found."
+    },
+    {
+      "term": "spick and span",
+      "definition": "Extremely clean and tidy.",
+      "example": "We left the kitchen spick and span.",
+      "note": "US variant spic and span is also used."
+    },
+    {
+      "term": "touch and go",
+      "definition": "Uncertain, especially for a serious outcome.",
+      "example": "It was touch and go for a while.",
+      "note": "Often it was touch and go whether."
+    },
+    {
+      "term": "up-and-coming",
+      "definition": "Showing promise of future success.",
+      "example": "An up-and-coming musician played tonight.",
+      "note": "Compound adjective."
+    },
+    {
+      "term": "ups and downs",
+      "definition": "Good and bad periods.",
+      "example": "Every friendship has its ups and downs.",
+      "note": "Plural noun phrase."
+    },
+    {
+      "term": "wear and tear",
+      "definition": "Deterioration caused by normal use.",
+      "example": "The carpet shows some wear and tear.",
+      "note": "Different from deliberate damage."
+    },
+    {
+      "term": "well and truly",
+      "definition": "Completely.",
+      "example": "We were well and truly lost.",
+      "note": "Emphatic."
+    },
+    {
+      "term": "fair and square",
+      "definition": "Honestly and according to the rules.",
+      "example": "They won fair and square.",
+      "note": "Often with win or beat."
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "complete-pairs",
+      "title": "Complete the pair",
+      "instruction": "Type the missing word in the fixed phrase.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "He won fair and ___.",
+          "answer": [
+            "square"
+          ],
+          "explanation": "The missing word is square; keep the pair in its fixed order.",
+          "id": "complete-pairs-1"
+        },
+        {
+          "type": "text",
+          "prompt": "We left bright and ___.",
+          "answer": [
+            "early"
+          ],
+          "explanation": "The missing word is early; keep the pair in its fixed order.",
+          "id": "complete-pairs-2"
+        },
+        {
+          "type": "text",
+          "prompt": "I need peace and ___.",
+          "answer": [
+            "quiet"
+          ],
+          "explanation": "The missing word is quiet; keep the pair in its fixed order.",
+          "id": "complete-pairs-3"
+        },
+        {
+          "type": "text",
+          "prompt": "The parcels arrived in dribs and ___.",
+          "answer": [
+            "drabs"
+          ],
+          "explanation": "The missing word is drabs; keep the pair in its fixed order.",
+          "id": "complete-pairs-4"
+        },
+        {
+          "type": "text",
+          "prompt": "They reached home safe and ___.",
+          "answer": [
+            "sound"
+          ],
+          "explanation": "The missing word is sound; keep the pair in its fixed order.",
+          "id": "complete-pairs-5"
+        },
+        {
+          "type": "text",
+          "prompt": "The crowd was pushing and ___.",
+          "answer": [
+            "shoving"
+          ],
+          "explanation": "The missing word is shoving; keep the pair in its fixed order.",
+          "id": "complete-pairs-6"
+        },
+        {
+          "type": "text",
+          "prompt": "Her garden is her pride and ___.",
+          "answer": [
+            "joy"
+          ],
+          "explanation": "The missing word is joy; keep the pair in its fixed order.",
+          "id": "complete-pairs-7"
+        },
+        {
+          "type": "text",
+          "prompt": "The carpet shows wear and ___.",
+          "answer": [
+            "tear"
+          ],
+          "explanation": "The missing word is tear; keep the pair in its fixed order.",
+          "id": "complete-pairs-8"
+        },
+        {
+          "type": "text",
+          "prompt": "All friendships have ups and ___.",
+          "answer": [
+            "downs"
+          ],
+          "explanation": "The missing word is downs; keep the pair in its fixed order.",
+          "id": "complete-pairs-9"
+        },
+        {
+          "type": "text",
+          "prompt": "She is your own flesh and ___.",
+          "answer": [
+            "blood"
+          ],
+          "explanation": "The missing word is blood; keep the pair in its fixed order.",
+          "id": "complete-pairs-10"
+        },
+        {
+          "type": "text",
+          "prompt": "The room is spick and ___.",
+          "answer": [
+            "span"
+          ],
+          "explanation": "The missing word is span; keep the pair in its fixed order.",
+          "id": "complete-pairs-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Explain the ins and ___ of the system.",
+          "answer": [
+            "outs"
+          ],
+          "explanation": "The missing word is outs; keep the pair in its fixed order.",
+          "id": "complete-pairs-12"
+        }
+      ]
+    },
+    {
+      "id": "repair-pairs",
+      "title": "Repair the phrase",
+      "instruction": "Replace the incorrect phrase. Type the whole corrected expression.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Correct: “grin and dance it”",
+          "answer": [
+            "grin and bear it"
+          ],
+          "explanation": "The fixed expression is “grin and bear it”.",
+          "id": "repair-pairs-1"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “wear and bear”",
+          "answer": [
+            "wear and tear"
+          ],
+          "explanation": "The fixed expression is “wear and tear”.",
+          "id": "repair-pairs-2"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “outs and ends”",
+          "answer": [
+            "odds and ends"
+          ],
+          "explanation": "The fixed expression is “odds and ends”.",
+          "id": "repair-pairs-3"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “pride and go”",
+          "answer": [
+            "pride and joy"
+          ],
+          "explanation": "The fixed expression is “pride and joy”.",
+          "id": "repair-pairs-4"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “by and once”",
+          "answer": [
+            "by and large"
+          ],
+          "explanation": "The fixed expression is “by and large”.",
+          "id": "repair-pairs-5"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “prim and parcel”",
+          "answer": [
+            "prim and proper"
+          ],
+          "explanation": "The fixed expression is “prim and proper”.",
+          "id": "repair-pairs-6"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “song and far”",
+          "answer": [
+            "song and dance"
+          ],
+          "explanation": "The fixed expression is “song and dance”.",
+          "id": "repair-pairs-7"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “few and large between”",
+          "answer": [
+            "few and far between"
+          ],
+          "explanation": "The fixed expression is “few and far between”.",
+          "id": "repair-pairs-8"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “part and joy”",
+          "answer": [
+            "part and parcel"
+          ],
+          "explanation": "The fixed expression is “part and parcel”.",
+          "id": "repair-pairs-9"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “ins and odds”",
+          "answer": [
+            "ins and outs"
+          ],
+          "explanation": "The fixed expression is “ins and outs”.",
+          "id": "repair-pairs-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “proper and for all”",
+          "answer": [
+            "once and for all"
+          ],
+          "explanation": "The fixed expression is “once and for all”.",
+          "id": "repair-pairs-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Correct: “touch and tear”",
+          "answer": [
+            "touch and go"
+          ],
+          "explanation": "The fixed expression is “touch and go”.",
+          "id": "repair-pairs-12"
+        }
+      ]
+    },
+    {
+      "id": "pair-context",
+      "title": "Put the phrases to work",
+      "instruction": "Complete each paraphrase with the appropriate expression.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "He is your brother: your own ___.",
+          "answer": [
+            "flesh and blood"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-1"
+        },
+        {
+          "type": "text",
+          "prompt": "You will have to accept it: ___ it.",
+          "answer": [
+            "grin and bear"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-2"
+        },
+        {
+          "type": "text",
+          "prompt": "Leave the room spotless: leave it ___.",
+          "answer": [
+            "spick and span",
+            "spic and span"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-3"
+        },
+        {
+          "type": "text",
+          "prompt": "He values his tomato plants: they are his ___.",
+          "answer": [
+            "pride and joy"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-4"
+        },
+        {
+          "type": "text",
+          "prompt": "Cheap hotels are uncommon: they are ___.",
+          "answer": [
+            "few and far between"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-5"
+        },
+        {
+          "type": "text",
+          "prompt": "She won without cheating: she won ___.",
+          "answer": [
+            "fair and square"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-6"
+        },
+        {
+          "type": "text",
+          "prompt": "There is no need to make a fuss: no need to make a ___.",
+          "answer": [
+            "song and dance"
+          ],
+          "explanation": "Read the complete sentence and keep the phrase in its conventional order.",
+          "id": "pair-context-7"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-recall",
+      "title": "Vocabulary recall",
+      "instruction": "Choose the word or phrase that matches the meaning.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Small amounts arriving irregularly.",
+          "answer": "dribs and drabs",
+          "options": [
+            "bright and early",
+            "few and far between",
+            "odds and ends",
+            "dribs and drabs"
+          ],
+          "explanation": "Donations came in dribs and drabs. Often after in.",
+          "id": "vocabulary-recall-1"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very early, with a positive sense of readiness.",
+          "answer": "bright and early",
+          "options": [
+            "once and for all",
+            "bright and early",
+            "by and large",
+            "grin and bear it"
+          ],
+          "explanation": "We set off bright and early. Often with leave, start or get up.",
+          "id": "vocabulary-recall-2"
+        },
+        {
+          "type": "choice",
+          "prompt": "Generally; on the whole.",
+          "answer": "by and large",
+          "options": [
+            "few and far between",
+            "ins and outs",
+            "flesh and blood",
+            "by and large"
+          ],
+          "explanation": "By and large, the course was useful. Often introduces a general judgement.",
+          "id": "vocabulary-recall-3"
+        },
+        {
+          "type": "choice",
+          "prompt": "Uncommon or hard to find.",
+          "answer": "few and far between",
+          "options": [
+            "out-and-out",
+            "few and far between",
+            "grin and bear it",
+            "song and dance"
+          ],
+          "explanation": "Affordable flats are few and far between. Usually after be.",
+          "id": "vocabulary-recall-4"
+        },
+        {
+          "type": "choice",
+          "prompt": "Accept an unpleasant situation without complaining.",
+          "answer": "grin and bear it",
+          "options": [
+            "ins and outs",
+            "odds and ends",
+            "part and parcel",
+            "grin and bear it"
+          ],
+          "explanation": "We had to grin and bear it. Informal.",
+          "id": "vocabulary-recall-5"
+        },
+        {
+          "type": "choice",
+          "prompt": "The details of a complicated situation.",
+          "answer": "ins and outs",
+          "options": [
+            "peace and quiet",
+            "ins and outs",
+            "song and dance",
+            "once and for all"
+          ],
+          "explanation": "She explained the ins and outs of the contract. Usually the ins and outs of.",
+          "id": "vocabulary-recall-6"
+        },
+        {
+          "type": "choice",
+          "prompt": "An unnecessary fuss.",
+          "answer": "song and dance",
+          "options": [
+            "odds and ends",
+            "flesh and blood",
+            "pride and joy",
+            "song and dance"
+          ],
+          "explanation": "Do not make a song and dance about the delay. Usually make a song and dance about.",
+          "id": "vocabulary-recall-7"
+        },
+        {
+          "type": "choice",
+          "prompt": "Various small items.",
+          "answer": "odds and ends",
+          "options": [
+            "prim and proper",
+            "odds and ends",
+            "once and for all",
+            "out-and-out"
+          ],
+          "explanation": "A drawer held a few odds and ends. Plural noun phrase.",
+          "id": "vocabulary-recall-8"
+        },
+        {
+          "type": "choice",
+          "prompt": "Finally and decisively, ending doubt or repetition.",
+          "answer": "once and for all",
+          "options": [
+            "flesh and blood",
+            "part and parcel",
+            "pushing and shoving",
+            "once and for all"
+          ],
+          "explanation": "Let us settle this once and for all. Not simply one time.",
+          "id": "vocabulary-recall-9"
+        },
+        {
+          "type": "choice",
+          "prompt": "A person’s relatives or family.",
+          "answer": "flesh and blood",
+          "options": [
+            "safe and sound",
+            "flesh and blood",
+            "out-and-out",
+            "peace and quiet"
+          ],
+          "explanation": "He is your own flesh and blood. Often own flesh and blood.",
+          "id": "vocabulary-recall-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Complete or absolute.",
+          "answer": "out-and-out",
+          "options": [
+            "part and parcel",
+            "pride and joy",
+            "spick and span",
+            "out-and-out"
+          ],
+          "explanation": "That is an out-and-out lie. Compound adjective; often negative.",
+          "id": "vocabulary-recall-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "An essential or unavoidable part.",
+          "answer": "part and parcel",
+          "options": [
+            "touch and go",
+            "part and parcel",
+            "peace and quiet",
+            "prim and proper"
+          ],
+          "explanation": "Revision is part and parcel of learning. Usually part and parcel of.",
+          "id": "vocabulary-recall-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Calm and freedom from disturbance.",
+          "answer": "peace and quiet",
+          "options": [
+            "pride and joy",
+            "pushing and shoving",
+            "up-and-coming",
+            "peace and quiet"
+          ],
+          "explanation": "I need some peace and quiet. Uncountable phrase.",
+          "id": "vocabulary-recall-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Someone or something especially valued.",
+          "answer": "pride and joy",
+          "options": [
+            "ups and downs",
+            "pride and joy",
+            "prim and proper",
+            "safe and sound"
+          ],
+          "explanation": "Her garden is her pride and joy. Usually possessive + pride and joy.",
+          "id": "vocabulary-recall-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Very formal, conventional and easily shocked.",
+          "answer": "prim and proper",
+          "options": [
+            "pushing and shoving",
+            "spick and span",
+            "wear and tear",
+            "prim and proper"
+          ],
+          "explanation": "She was too prim and proper for the joke. Describes a person or manner.",
+          "id": "vocabulary-recall-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Forceful pushing in a crowd.",
+          "answer": "pushing and shoving",
+          "options": [
+            "well and truly",
+            "pushing and shoving",
+            "safe and sound",
+            "touch and go"
+          ],
+          "explanation": "There was pushing and shoving at the entrance. Usually describes a crowd.",
+          "id": "vocabulary-recall-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Safe and unharmed after possible danger.",
+          "answer": "safe and sound",
+          "options": [
+            "spick and span",
+            "up-and-coming",
+            "fair and square",
+            "safe and sound"
+          ],
+          "explanation": "The missing hikers returned safe and sound. Often after arrive, return or be found.",
+          "id": "vocabulary-recall-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Extremely clean and tidy.",
+          "answer": "spick and span",
+          "options": [
+            "dribs and drabs",
+            "spick and span",
+            "touch and go",
+            "ups and downs"
+          ],
+          "explanation": "We left the kitchen spick and span. US variant spic and span is also used.",
+          "id": "vocabulary-recall-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Uncertain, especially for a serious outcome.",
+          "answer": "touch and go",
+          "options": [
+            "up-and-coming",
+            "wear and tear",
+            "bright and early",
+            "touch and go"
+          ],
+          "explanation": "It was touch and go for a while. Often it was touch and go whether.",
+          "id": "vocabulary-recall-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Showing promise of future success.",
+          "answer": "up-and-coming",
+          "options": [
+            "by and large",
+            "up-and-coming",
+            "ups and downs",
+            "well and truly"
+          ],
+          "explanation": "An up-and-coming musician played tonight. Compound adjective.",
+          "id": "vocabulary-recall-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Good and bad periods.",
+          "answer": "ups and downs",
+          "options": [
+            "wear and tear",
+            "fair and square",
+            "few and far between",
+            "ups and downs"
+          ],
+          "explanation": "Every friendship has its ups and downs. Plural noun phrase.",
+          "id": "vocabulary-recall-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Deterioration caused by normal use.",
+          "answer": "wear and tear",
+          "options": [
+            "grin and bear it",
+            "wear and tear",
+            "well and truly",
+            "dribs and drabs"
+          ],
+          "explanation": "The carpet shows some wear and tear. Different from deliberate damage.",
+          "id": "vocabulary-recall-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Completely.",
+          "answer": "well and truly",
+          "options": [
+            "fair and square",
+            "bright and early",
+            "ins and outs",
+            "well and truly"
+          ],
+          "explanation": "We were well and truly lost. Emphatic.",
+          "id": "vocabulary-recall-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Honestly and according to the rules.",
+          "answer": "fair and square",
+          "options": [
+            "song and dance",
+            "fair and square",
+            "dribs and drabs",
+            "by and large"
+          ],
+          "explanation": "They won fair and square. Often with win or beat.",
+          "id": "vocabulary-recall-24"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  }
+}

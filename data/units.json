@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "English Atelier",
+  "subtitle": "A little practice. A richer vocabulary.",
+  "units": [
+    {
+      "id": "unit-1",
+      "file": "unit-1.json"
+    },
+    {
+      "id": "unit-2",
+      "file": "unit-2.json"
+    },
+    {
+      "id": "unit-3",
+      "file": "unit-3.json"
+    },
+    {
+      "id": "unit-4",
+      "file": "unit-4.json"
+    },
+    {
+      "id": "unit-5",
+      "file": "unit-5.json"
+    }
+  ]
+}
